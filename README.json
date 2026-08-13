@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T14:22:51Z",
+            "last_commit": "2026-08-13T10:24:44Z",
             "owner": "eclipse-hawkbit",
             "repo": "hawkbit",
             "stars": 591
@@ -348,10 +348,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T04:36:17Z",
+            "last_commit": "2026-08-13T06:08:39Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21986
+            "stars": 21988
           }
         },
         {
@@ -362,10 +362,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T10:26:53Z",
+            "last_commit": "2026-08-13T10:16:13Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6063
+            "stars": 6062
           }
         },
         {
@@ -583,7 +583,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-23T10:24:58Z",
+            "last_commit": "2026-08-13T09:51:35Z",
             "owner": "zephyrproject-rtos",
             "repo": "mbedtls",
             "stars": 27
@@ -634,7 +634,7 @@
             "last_commit": "2026-08-12T05:03:24Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4214
+            "stars": 4213
           }
         },
         {
@@ -1103,7 +1103,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-12T17:19:15Z",
+                "last_commit": "2026-08-13T07:39:52Z",
                 "owner": "nordicsemi",
                 "repo": "Android-nRF-Connect-Device-Manager",
                 "stars": 139
@@ -1220,7 +1220,7 @@
             "last_commit": "2026-08-12T05:03:24Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4214
+            "stars": 4213
           }
         },
         {
@@ -1234,7 +1234,7 @@
             "last_commit": "2026-04-22T10:19:36Z",
             "owner": "jakkra",
             "repo": "ZSWatch",
-            "stars": 81
+            "stars": 82
           }
         }
       ],
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:38:19.388Z",
+    "last_updated": "2026-08-13T12:06:59.697Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
     "enhanced_repository": "enhansome/enhansome-zephyr-rtos",
