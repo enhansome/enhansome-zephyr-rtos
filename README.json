@@ -348,7 +348,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T03:00:27Z",
+            "last_commit": "2026-08-16T02:29:15Z",
             "owner": "micropython",
             "repo": "micropython",
             "stars": 21991
@@ -362,10 +362,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T10:57:52Z",
+            "last_commit": "2026-08-15T15:13:33Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6062
+            "stars": 6066
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-07T20:57:49Z",
             "owner": "svenssonjoel",
             "repo": "lispBM",
-            "stars": 130
+            "stars": 131
           }
         }
       ],
@@ -410,7 +410,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T19:32:47Z",
+            "last_commit": "2026-08-15T20:51:40Z",
             "owner": "bacnet-stack",
             "repo": "bacnet-stack",
             "stars": 586
@@ -634,7 +634,7 @@
             "last_commit": "2026-08-12T05:03:24Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4217
+            "stars": 4218
           }
         },
         {
@@ -1220,7 +1220,7 @@
             "last_commit": "2026-08-12T05:03:24Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4217
+            "stars": 4218
           }
         },
         {
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:42:22.112Z",
+    "last_updated": "2026-08-16T11:43:20.725Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
     "enhanced_repository": "enhansome/enhansome-zephyr-rtos",
