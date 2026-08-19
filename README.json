@@ -402,7 +402,7 @@
                 "archived": false,
                 "id": 152950119,
                 "language": "C",
-                "last_commit": "2026-08-07T20:57:49Z",
+                "last_commit": "2026-08-19T11:55:22Z",
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
                 "stars": 132
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-19T02:00:17Z",
+                "last_commit": "2026-08-19T12:49:13Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -1326,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:48:57.806Z",
+    "last_updated": "2026-08-19T13:00:39.910Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",

@@ -5,7 +5,7 @@
 
 > The Zephyr RTOS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 497,645 | 🐛 102 | 📅 2026-08-18
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 497,671 | 🐛 102 | 📅 2026-08-18
 
 > \[!NOTE]\
 > The Zephyr Project has started to maintain an [awesome list](https://github.com/zephyrproject-rtos/awesome-zephyr-rtos) ⭐ 66 | 🐛 4 | 📅 2026-02-24. We encourage you to check it out and contribute.
@@ -24,7 +24,7 @@
 * [zephyrproject.org](https://www.zephyrproject.org/) - Official website.
 * [docs.zephyrproject.org](https://docs.zephyrproject.org/) - Project documentation.
 * [github](https://github.com/zephyrproject-rtos) - Project GitHub organization.
-  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,254 | 🐛 3,928 | 🌐 C | 📅 2026-08-19 - Main repo.
+  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,254 | 🐛 3,949 | 🌐 C | 📅 2026-08-19 - Main repo.
   * [west](https://github.com/zephyrproject-rtos/west) ⭐ 360 | 🐛 67 | 🌐 Python | 📅 2026-08-10 - Swiss-army knife command line tool.
   * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 286 | 🐛 80 | 🌐 C | 📅 2026-08-03 - Next generation toolchains & host tools.
   * [example-application](https://github.com/zephyrproject-rtos/example-application) ⭐ 358 | 🐛 2 | 🌐 C | 📅 2026-08-10 - Example out-of-tree application that is also a module.
@@ -65,7 +65,7 @@
 
 ### HAL/PAL
 
-* [libmetal](https://github.com/zephyrproject-rtos/libmetal) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2026-05-05 - Abstraction layer across user-space Linux, baremetal, and RTOS environments.
+* [libmetal](https://github.com/zephyrproject-rtos/libmetal) ⭐ 17 | 🐛 1 | 🌐 C | 📅 2026-05-05 - Abstraction layer across user-space Linux, baremetal, and RTOS environments.
 * [cmsis](https://github.com/zephyrproject-rtos/cmsis) ⭐ 14 | 🐛 2 | 🌐 C | 📅 2025-06-03 - Standardized API for the Cortex-M processor core and peripherals.
 
 ### IoT & Cloud
@@ -84,7 +84,7 @@
 
 * [micropython](https://github.com/micropython/micropython) ⭐ 21,994 | 🐛 1,535 | 🌐 C | 📅 2026-08-18 - a lean and efficient Python implementation for microcontrollers and constrained systems.
 * [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,070 | 🐛 598 | 🌐 C | 📅 2026-08-18 - Lightweight standalone WebAssembly (WASM) runtime.
-* [lispBM](https://github.com/svenssonjoel/lispBM) ⭐ 132 | 🐛 3 | 🌐 C | 📅 2026-08-07 - LispBM is a lisp or scheme like programming language for microcontrollers.
+* [lispBM](https://github.com/svenssonjoel/lispBM) ⭐ 132 | 🐛 3 | 🌐 C | 📅 2026-08-19 - LispBM is a lisp or scheme like programming language for microcontrollers.
 
 ### Networking & Protocols
 
