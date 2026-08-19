@@ -1,1213 +1,1295 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "control",
-          "description": "A control systems design library written in pure C that provides you with advanced algorithms for control, state estimation and model identification specifically designed for use on embedded systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2023-10-08T21:51:12Z",
-            "owner": "swedishembedded",
-            "repo": "control",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro_ros_zephyr_module",
-          "description": "ROS 2 for microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-15T11:41:49Z",
-            "owner": "micro-ROS",
-            "repo": "micro_ros_zephyr_module",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swedish Embedded Platform SDK",
-          "description": "Swedish Embedded Platform SDK is a comprehensive platform for firmware development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-13T22:11:50Z",
-            "owner": "swedishembedded",
-            "repo": "sdk",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gsoc-2022-arduino-core",
-          "description": "Arduino Core API module with an Arduino-C++ style abtraction layer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-24T13:20:12Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "ArduinoCore-zephyr",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zpp",
-          "description": "C++20 framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-01-13T13:34:56Z",
-            "owner": "lowlander",
-            "repo": "zpp",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-amp",
-          "description": "Open Asymmetric Multi Processing (OpenAMP) framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-05T08:18:19Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "open-amp",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chre",
-          "description": "Context Hub Runtime Environment (CHRE) is Android’s platform for developing always-on applications, called nanoapps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-03-13T19:34:36Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "chre",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sense-VM",
-          "description": "Bytecode virtual machine for microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-05-14T06:37:05Z",
-            "owner": "svenssonjoel",
-            "repo": "Sense-VM",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Application frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "littlefs",
-          "description": "Little fail-safe filesystem designed for microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-25T17:53:44Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "littlefs",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fats",
-          "description": "Generic FAT/exFAT filesystem module for small embedded systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-22T10:34:34Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "fatfs",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nffs",
-          "description": "Flash file system prioritizing minimal ram usage & reliability.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2019-12-10T01:46:55Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "nffs",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Filesystem"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "libmetal",
-          "description": "Abstraction layer across user-space Linux, baremetal, and RTOS environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-05T08:15:26Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "libmetal",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cmsis",
-          "description": "Standardized API for the Cortex-M processor core and peripherals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-06-03T10:41:15Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "cmsis",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "HAL/PAL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Eclipse hawkbit",
-          "description": "Firmware Update Server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T09:54:55Z",
-            "owner": "eclipse-hawkbit",
-            "repo": "hawkbit",
-            "stars": 592
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Memfault",
-          "description": "Cloud-based debugging & observability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-05T18:30:15Z",
-            "owner": "memfault",
-            "repo": "memfault-firmware-sdk",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openhaystack-zephyr",
-          "description": "Track personal Bluetooth devices via Apple's massive Find My network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-06-10T13:57:41Z",
-            "owner": "koenvervloesem",
-            "repo": "openhaystack-zephyr",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golioth",
-          "description": "Device Management & cloud enablement platform.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-05-06T16:32:22Z",
-            "owner": "golioth",
-            "repo": "golioth-zephyr-sdk",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "send-my-sensor",
-          "description": "Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-06-10T13:57:04Z",
-            "owner": "koenvervloesem",
-            "repo": "send-my-sensor",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thingset-zephyr-sdk",
-          "description": "A software development kit (SDK) based on Zephyr RTOS to integrate communication interfaces using the ThingSet protocol into an application with minimum effort. See https://thingset.io/.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-16T06:51:42Z",
-            "owner": "ThingSet",
-            "repo": "thingset-zephyr-sdk",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Edge Impulse",
-          "description": "Machine learning on edge devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CMake",
-            "last_commit": "2025-07-22T08:07:41Z",
-            "owner": "edgeimpulse",
-            "repo": "example-standalone-inferencing-zephyr",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anjay-zephyr",
-          "description": "C implementation of the client-side OMA LwM2M protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2026-04-10T12:44:58Z",
-            "owner": "AVSystem",
-            "repo": "Anjay-zephyr",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zephyrus",
-          "description": "A lightweight C library for exposing Prometheus metrics in Zephyr applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-12T15:51:11Z",
-            "owner": "mustafaabdullahk",
-            "repo": "zephyrus",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "IoT & Cloud"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "micropython",
-          "description": "a lean and efficient Python implementation for microcontrollers and constrained systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T02:53:07Z",
-            "owner": "micropython",
-            "repo": "micropython",
-            "stars": 21988
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasm-micro-runtime",
-          "description": "Lightweight standalone WebAssembly (WASM) runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T08:55:20Z",
-            "owner": "wasm-micro-runtime",
-            "repo": "wasm-micro-runtime",
-            "stars": 6069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lispBM",
-          "description": "LispBM is a lisp or scheme like programming language for microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-07T20:57:49Z",
-            "owner": "svenssonjoel",
-            "repo": "lispBM",
-            "stars": 131
-          }
-        }
-      ],
-      "title": "Languages & Runtimes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pjon",
-          "description": "Multi-master, multi-media network protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-11-21T22:50:23Z",
-            "owner": "gioblu",
-            "repo": "PJON",
-            "stars": 2814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BACnet Stack",
-          "description": "BACnet open source protocol stack for embedded systems, Linux, and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T20:26:15Z",
-            "owner": "bacnet-stack",
-            "repo": "bacnet-stack",
-            "stars": 587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openthread",
-          "description": "Thread mesh networking protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-06T16:13:01Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "openthread",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "canopennode",
-          "description": "CANopen Stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-07T06:34:26Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "canopennode",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "greybus-for-zephyr",
-          "description": "Protocol for hotpluggable devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-07-01T16:30:39Z",
-            "owner": "cfriedt",
-            "repo": "greybus-for-zephyr",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nanopb",
-          "description": "Protocol Buffers for Embedded Systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-03T07:23:02Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "nanopb",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "civetweb",
-          "description": "Embeddable web server.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2022-04-29T18:26:01Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "civetweb",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "CBOR",
-          "description": "Concise Binary Object Representation.",
           "children": [
             {
               "node_type": "item",
-              "title": "QCBOR",
-              "description": "Comprehensive CBOR library.",
+              "title": "control",
+              "description": "A control systems design library written in pure C that provides you with advanced algorithms for control, state estimation and model identification specifically designed for use on embedded systems.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 525080260,
+                "language": "MATLAB",
+                "last_commit": "2023-10-08T21:51:12Z",
+                "owner": "swedishembedded",
+                "repo": "control",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro_ros_zephyr_module",
+              "description": "ROS 2 for microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297243925,
                 "language": "C",
-                "last_commit": "2026-08-18T05:05:38Z",
-                "owner": "laurencelundblade",
-                "repo": "QCBOR",
-                "stars": 239
+                "last_commit": "2025-12-15T11:41:49Z",
+                "owner": "micro-ROS",
+                "repo": "micro_ros_zephyr_module",
+                "stars": 90
               }
             },
             {
               "node_type": "item",
-              "title": "zcbor",
-              "description": "CBOR library that includes support for CDDL.",
+              "title": "Swedish Embedded Platform SDK",
+              "description": "Swedish Embedded Platform SDK is a comprehensive platform for firmware development.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "C",
-                "last_commit": "2026-08-17T11:23:31Z",
-                "owner": "nordicsemi",
-                "repo": "zcbor",
-                "stars": 165
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "tinycbor",
-              "description": "Small CBOR library.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2022-04-07T10:33:32Z",
-                "owner": "zephyrproject-rtos",
-                "repo": "tinycbor",
-                "stars": 5
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "cosy",
-          "description": "CBOR Object Signing and Encryption (COSE).",
-          "children": []
-        }
-      ],
-      "title": "Networking & Protocols"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TF - M",
-          "description": "Platform Security Architecture (PSA) for ARMv7-M and Armv8-M.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T11:13:35Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "trusted-firmware-m",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCUboot",
-          "description": "A secure bootloader for 32-bits microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-11T09:02:02Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "mcuboot",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mbed TLS",
-          "description": "C library that implements cryptographic primitives, X.509 certificate manipulation and the SSL/TLS and DTLS protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-13T09:51:35Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "mbedtls",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aerology",
-          "description": "Inspect Zephyr and TF-M applications, post mortem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-24T03:16:41Z",
-            "owner": "Linaro",
-            "repo": "aerology",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tinycrypt",
-          "description": "Cryptographic library with a minimal set of standard cryptography primitives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-04T14:22:55Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "tinycrypt",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zmk",
-          "description": "Keyboard firmware with a rich featureset and broad hardware support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T05:03:03Z",
-            "owner": "zmkfirmware",
-            "repo": "zmk",
-            "stars": 4220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zephyr-rust",
-          "description": "API bindings, libstd, and Cargo integration for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-10-21T05:03:07Z",
-            "owner": "tylerwhall",
-            "repo": "zephyr-rust",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zscilib",
-          "description": "Scientific computing library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-02T20:13:35Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "zscilib",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pinetime-zephyr",
-          "description": "Smartwatch operating system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-07-22T19:36:50Z",
-            "owner": "najnesnaj",
-            "repo": "pinetime-zephyr",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spinner",
-          "description": "Motor control firmware based on the Field Oriented Control (FOC) principles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-05T10:50:45Z",
-            "owner": "teslabs",
-            "repo": "spinner",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lvgl",
-          "description": "Complete graphics library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-01T09:25:13Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "lvgl",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ecfw-zephyr",
-          "description": "Embedded Controller for low-level tasks on a motherboard like power sequencing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T00:04:00Z",
-            "owner": "intel",
-            "repo": "ecfw-zephyr",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zephyr-usb-midi",
-          "description": "This is a USB MIDI 1.0 device class driver for the Zephyr RTOS, which allows sending and receiving MIDI data (including system exclusive messages) over USB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-03T06:59:10Z",
-            "owner": "stuffmatic",
-            "repo": "zephyr-usb-midi",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grbl",
-          "description": "Motion control for CNC milling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-07-04T17:14:38Z",
-            "owner": "iwasz",
-            "repo": "zephyr-grbl",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "linaro_sensor_pipeline",
-          "description": "Secure data pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-09-19T13:50:59Z",
-            "owner": "Linaro",
-            "repo": "step",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zbus",
-          "description": "Inter thread communication bus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-07-29T21:15:03Z",
-            "owner": "zephyr-bus",
-            "repo": "zbus",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pysvd2dts",
-          "description": "Creates a Zephyr Devicetree file from an ARM CMSIS-SVD file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-13T11:14:20Z",
-            "owner": "thedigitaledge",
-            "repo": "pysvd2dts",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tflite-micro",
-          "description": "TensorFlow Lite for Microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-03-14T00:04:20Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "tflite-micro",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zcalendar",
-          "description": "Calendar API with RTC integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-15T15:12:45Z",
-            "owner": "bpbradley",
-            "repo": "zcalendar",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sof",
-          "description": "Audio Digital Signal Processing (DSP) firmware infrastructure and SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-01T14:47:40Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "sof",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lz4",
-          "description": "Extremely Fast Compression algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-29T12:17:10Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "lz4",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Zephyr Container Images",
-          "description": "Develop Zephyr applications using OCI-compatible Docker images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-08-13T19:36:23Z",
-            "owner": "embeddedcontainers",
-            "repo": "zephyr",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "action-setup-zephyr",
-          "description": "This action initializes a Zephyr based project, downloading the Zephyr SDK and the necessary modules for a West based Zephyr workspace application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T09:04:11Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "action-zephyr-setup",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bazel2zephyr",
-          "description": "Embedded/bare-metal development using bazel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Starlark",
-            "last_commit": "2021-12-22T13:09:28Z",
-            "owner": "GatCode",
-            "repo": "bazel2zephyr",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Device Tree",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "dtsh",
-              "description": "Shell-like interface to devicetrees.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-04T05:09:42Z",
-                "owner": "dottspina",
-                "repo": "dtsh",
-                "stars": 74
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "Swedish Embedded Platform SDK Docker Image",
-          "description": "Docker containers for CI & development.",
-          "children": []
-        }
-      ],
-      "title": "Build & Config"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Editors & IDEs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zephyr-ide",
-          "description": "The Zephyr IDE for VS code extension provides tools to aide in your Zephyr Project work flow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-28T20:47:24Z",
-            "owner": "mylonics",
-            "repo": "zephyr-ide",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zephyr Tools for VSCode",
-          "description": "Circuit Dojo designed Zephyr Tools to make getting started with Zephyr a snap.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-06T17:28:40Z",
-            "owner": "circuitdojo",
-            "repo": "zephyr-tools",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VS Code importer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-31T02:41:27Z",
-            "owner": "smrtos",
-            "repo": "Zephyr2VSC",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zephyrus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-09-02T21:57:46Z",
-            "owner": "tuScale",
-            "repo": "vscode-zephyrus",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ardesco-VSCode-Extension",
-          "description": "Ericsson Ardesco device development extension.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-12-02T21:21:27Z",
-            "owner": "Ericsson",
-            "repo": "Ardesco-VSCode-Extension",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Visual Studio Code"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Eclipse",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-03-29T21:24:19Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "eclipse-plugin",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CMake Zephyr helpers",
-          "description": "Enhance CMake automation for use with VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CMake",
-            "last_commit": "2022-05-27T16:06:54Z",
-            "owner": "thirdpin",
-            "repo": "Zephyr-CMake-Helpers",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Other Editors & IDEs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenOCD",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-24T04:21:37Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "openocd",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jlink-zephyr",
-          "description": "Zephyr RTOS plugin for JlinkGDBserver.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-16T15:26:24Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "jlink-zephyr",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mcumgr",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "iOS",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Swift",
-                "last_commit": "2026-08-05T10:39:08Z",
-                "owner": "nordicsemi",
-                "repo": "IOS-nRF-Connect-Device-Manager",
-                "stars": 164
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Android",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2026-08-13T07:39:52Z",
-                "owner": "nordicsemi",
-                "repo": "Android-nRF-Connect-Device-Manager",
-                "stars": 140
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Web",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 518429195,
                 "language": "JavaScript",
-                "last_commit": "2026-06-18T13:34:35Z",
-                "owner": "boogie",
-                "repo": "mcumgr-web",
+                "last_commit": "2023-08-13T22:11:50Z",
+                "owner": "swedishembedded",
+                "repo": "sdk",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gsoc-2022-arduino-core",
+              "description": "Arduino Core API module with an Arduino-C++ style abtraction layer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498789844,
+                "language": "C++",
+                "last_commit": "2026-07-24T13:20:12Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "ArduinoCore-zephyr",
                 "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zpp",
+              "description": "C++20 framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212470642,
+                "language": "C++",
+                "last_commit": "2023-01-13T13:34:56Z",
+                "owner": "lowlander",
+                "repo": "zpp",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-amp",
+              "description": "Open Asymmetric Multi Processing (OpenAMP) framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185796479,
+                "language": "C",
+                "last_commit": "2026-05-05T08:18:19Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "open-amp",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chre",
+              "description": "Context Hub Runtime Environment (CHRE) is Android’s platform for developing always-on applications, called nanoapps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447376289,
+                "language": "C++",
+                "last_commit": "2026-03-13T19:34:36Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "chre",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sense-VM",
+              "description": "Bytecode virtual machine for microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278055791,
+                "language": "C",
+                "last_commit": "2022-05-14T06:37:05Z",
+                "owner": "svenssonjoel",
+                "repo": "Sense-VM",
+                "stars": 7
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-11-16T10:41:08Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "mcumgr",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aerology",
-          "description": "Inspect Zephyr and TF-M applications, post mortem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-24T03:16:41Z",
-            "owner": "Linaro",
-            "repo": "aerology",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SEGGER",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-27T11:44:37Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "segger",
-            "stars": 10
-          }
+          "node_type": "group",
+          "title": "Application frameworks"
         },
         {
-          "node_type": "item",
-          "title": "GNU Tools (GDB, Binutils)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "littlefs",
+              "description": "Little fail-safe filesystem designed for microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198808652,
+                "language": "C",
+                "last_commit": "2026-08-18T16:14:53Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "littlefs",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fats",
+              "description": "Generic FAT/exFAT filesystem module for small embedded systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188139070,
+                "language": "C",
+                "last_commit": "2026-07-22T10:34:34Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "fatfs",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nffs",
+              "description": "Flash file system prioritizing minimal ram usage & reliability.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 188292057,
+                "language": "C",
+                "last_commit": "2019-12-10T01:46:55Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "nffs",
+                "stars": 5
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-02T16:57:51Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "binutils-gdb",
-            "stars": 3
-          }
+          "node_type": "group",
+          "title": "Filesystem"
         },
         {
-          "node_type": "item",
-          "title": "EDTT (Embedded Device Test Tool)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libmetal",
+              "description": "Abstraction layer across user-space Linux, baremetal, and RTOS environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185796104,
+                "language": "C",
+                "last_commit": "2026-05-05T08:15:26Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "libmetal",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cmsis",
+              "description": "Standardized API for the Cortex-M processor core and peripherals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248545339,
+                "language": "C",
+                "last_commit": "2025-06-03T10:41:15Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "cmsis",
+                "stars": 14
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-13T07:22:00Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "edtt",
-            "stars": 2
-          }
+          "node_type": "group",
+          "title": "HAL/PAL"
         },
         {
-          "node_type": "item",
-          "title": "libjaylink",
-          "description": "libjaylink is a shared library written in C to access SEGGER J-Link and compatible devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-02-01T16:20:55Z",
-            "owner": "zephyrproject-rtos",
-            "repo": "libjaylink",
-            "stars": 1
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Eclipse hawkbit",
+              "description": "Firmware Update Server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45860898,
+                "language": "Java",
+                "last_commit": "2026-08-19T05:57:34Z",
+                "owner": "eclipse-hawkbit",
+                "repo": "hawkbit",
+                "stars": 591
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memfault",
+              "description": "Cloud-based debugging & observability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193568549,
+                "language": "C",
+                "last_commit": "2026-08-05T18:30:15Z",
+                "owner": "memfault",
+                "repo": "memfault-firmware-sdk",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openhaystack-zephyr",
+              "description": "Track personal Bluetooth devices via Apple's massive Find My network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390397478,
+                "language": "C",
+                "last_commit": "2022-06-10T13:57:41Z",
+                "owner": "koenvervloesem",
+                "repo": "openhaystack-zephyr",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golioth",
+              "description": "Device Management & cloud enablement platform.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 333533946,
+                "language": "C",
+                "last_commit": "2024-05-06T16:32:22Z",
+                "owner": "golioth",
+                "repo": "golioth-zephyr-sdk",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "send-my-sensor",
+              "description": "Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390475617,
+                "language": "C",
+                "last_commit": "2022-06-10T13:57:04Z",
+                "owner": "koenvervloesem",
+                "repo": "send-my-sensor",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thingset-zephyr-sdk",
+              "description": "A software development kit (SDK) based on Zephyr RTOS to integrate communication interfaces using the ThingSet protocol into an application with minimum effort. See https://thingset.io/.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 551862211,
+                "language": "C",
+                "last_commit": "2026-04-16T06:51:42Z",
+                "owner": "ThingSet",
+                "repo": "thingset-zephyr-sdk",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Edge Impulse",
+              "description": "Machine learning on edge devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303304603,
+                "language": "CMake",
+                "last_commit": "2025-07-22T08:07:41Z",
+                "owner": "edgeimpulse",
+                "repo": "example-standalone-inferencing-zephyr",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anjay-zephyr",
+              "description": "C implementation of the client-side OMA LwM2M protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 372733202,
+                "language": "C",
+                "last_commit": "2026-04-10T12:44:58Z",
+                "owner": "AVSystem",
+                "repo": "Anjay-zephyr",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zephyrus",
+              "description": "A lightweight C library for exposing Prometheus metrics in Zephyr applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783801430,
+                "language": "C",
+                "last_commit": "2024-05-12T15:51:11Z",
+                "owner": "mustafaabdullahk",
+                "repo": "zephyrus",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IoT & Cloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "micropython",
+              "description": "a lean and efficient Python implementation for microcontrollers and constrained systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15337142,
+                "language": "C",
+                "last_commit": "2026-08-18T14:36:09Z",
+                "owner": "micropython",
+                "repo": "micropython",
+                "stars": 21994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasm-micro-runtime",
+              "description": "Lightweight standalone WebAssembly (WASM) runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184654298,
+                "language": "C",
+                "last_commit": "2026-08-18T08:55:20Z",
+                "owner": "wasm-micro-runtime",
+                "repo": "wasm-micro-runtime",
+                "stars": 6070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lispBM",
+              "description": "LispBM is a lisp or scheme like programming language for microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152950119,
+                "language": "C",
+                "last_commit": "2026-08-07T20:57:49Z",
+                "owner": "svenssonjoel",
+                "repo": "lispBM",
+                "stars": 132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Languages & Runtimes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pjon",
+              "description": "Multi-master, multi-media network protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27359253,
+                "language": "C++",
+                "last_commit": "2025-11-21T22:50:23Z",
+                "owner": "gioblu",
+                "repo": "PJON",
+                "stars": 2814
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BACnet Stack",
+              "description": "BACnet open source protocol stack for embedded systems, Linux, and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213168548,
+                "language": "C",
+                "last_commit": "2026-08-19T02:00:17Z",
+                "owner": "bacnet-stack",
+                "repo": "bacnet-stack",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openthread",
+              "description": "Thread mesh networking protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198396091,
+                "language": "C++",
+                "last_commit": "2026-07-06T16:13:01Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "openthread",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "canopennode",
+              "description": "CANopen Stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234373971,
+                "language": "C",
+                "last_commit": "2026-04-07T06:34:26Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "canopennode",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "greybus-for-zephyr",
+              "description": "Protocol for hotpluggable devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292881776,
+                "language": "C",
+                "last_commit": "2022-07-01T16:30:39Z",
+                "owner": "cfriedt",
+                "repo": "greybus-for-zephyr",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nanopb",
+              "description": "Protocol Buffers for Embedded Systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351842503,
+                "language": "C",
+                "last_commit": "2026-03-03T07:23:02Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "nanopb",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "civetweb",
+              "description": "Embeddable web server.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 207842539,
+                "language": "C",
+                "last_commit": "2022-04-29T18:26:01Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "civetweb",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "CBOR",
+              "description": "Concise Binary Object Representation.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "QCBOR",
+                  "description": "Comprehensive CBOR library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148686626,
+                    "language": "C",
+                    "last_commit": "2026-08-18T21:12:55Z",
+                    "owner": "laurencelundblade",
+                    "repo": "QCBOR",
+                    "stars": 240
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "zcbor",
+                  "description": "CBOR library that includes support for CDDL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 235833583,
+                    "language": "C",
+                    "last_commit": "2026-08-17T11:23:31Z",
+                    "owner": "nordicsemi",
+                    "repo": "zcbor",
+                    "stars": 165
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tinycbor",
+                  "description": "Small CBOR library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120491777,
+                    "language": "C",
+                    "last_commit": "2022-04-07T10:33:32Z",
+                    "owner": "zephyrproject-rtos",
+                    "repo": "tinycbor",
+                    "stars": 5
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking & Protocols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TF - M",
+              "description": "Platform Security Architecture (PSA) for ARMv7-M and Armv8-M.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223393131,
+                "language": "C",
+                "last_commit": "2026-08-18T11:13:35Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "trusted-firmware-m",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCUboot",
+              "description": "A secure bootloader for 32-bits microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207841087,
+                "language": "C",
+                "last_commit": "2026-08-11T09:02:02Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "mcuboot",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mbed TLS",
+              "description": "C library that implements cryptographic primitives, X.509 certificate manipulation and the SSL/TLS and DTLS protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185797050,
+                "language": "C",
+                "last_commit": "2026-08-13T09:51:35Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "mbedtls",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aerology",
+              "description": "Inspect Zephyr and TF-M applications, post mortem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473235944,
+                "language": "Rust",
+                "last_commit": "2025-01-24T03:16:41Z",
+                "owner": "Linaro",
+                "repo": "aerology",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tinycrypt",
+              "description": "Cryptographic library with a minimal set of standard cryptography primitives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248730195,
+                "language": "C",
+                "last_commit": "2024-03-04T14:22:55Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "tinycrypt",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zmk",
+              "description": "Keyboard firmware with a rich featureset and broad hardware support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270692521,
+                "language": "C",
+                "last_commit": "2026-08-18T05:03:03Z",
+                "owner": "zmkfirmware",
+                "repo": "zmk",
+                "stars": 4227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zephyr-rust",
+              "description": "API bindings, libstd, and Cargo integration for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186533463,
+                "language": "Rust",
+                "last_commit": "2024-10-21T05:03:07Z",
+                "owner": "tylerwhall",
+                "repo": "zephyr-rust",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zscilib",
+              "description": "Scientific computing library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170995557,
+                "language": "C",
+                "last_commit": "2026-03-02T20:13:35Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "zscilib",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pinetime-zephyr",
+              "description": "Smartwatch operating system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223597268,
+                "language": "C",
+                "last_commit": "2023-07-22T19:36:50Z",
+                "owner": "najnesnaj",
+                "repo": "pinetime-zephyr",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spinner",
+              "description": "Motor control firmware based on the Field Oriented Control (FOC) principles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272495550,
+                "language": "C",
+                "last_commit": "2024-03-05T10:50:45Z",
+                "owner": "teslabs",
+                "repo": "spinner",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lvgl",
+              "description": "Complete graphics library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195139685,
+                "language": "C",
+                "last_commit": "2026-08-01T09:25:13Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "lvgl",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecfw-zephyr",
+              "description": "Embedded Controller for low-level tasks on a motherboard like power sequencing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228485657,
+                "language": "C",
+                "last_commit": "2026-08-12T00:04:00Z",
+                "owner": "intel",
+                "repo": "ecfw-zephyr",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zephyr-usb-midi",
+              "description": "This is a USB MIDI 1.0 device class driver for the Zephyr RTOS, which allows sending and receiving MIDI data (including system exclusive messages) over USB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583891173,
+                "language": "C",
+                "last_commit": "2026-03-03T06:59:10Z",
+                "owner": "stuffmatic",
+                "repo": "zephyr-usb-midi",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grbl",
+              "description": "Motion control for CNC milling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397305115,
+                "language": "C",
+                "last_commit": "2023-07-04T17:14:38Z",
+                "owner": "iwasz",
+                "repo": "zephyr-grbl",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "linaro_sensor_pipeline",
+              "description": "Secure data pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376259511,
+                "language": "C",
+                "last_commit": "2023-09-19T13:50:59Z",
+                "owner": "Linaro",
+                "repo": "step",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zbus",
+              "description": "Inter thread communication bus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432735773,
+                "language": "C",
+                "last_commit": "2022-07-29T21:15:03Z",
+                "owner": "zephyr-bus",
+                "repo": "zbus",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pysvd2dts",
+              "description": "Creates a Zephyr Devicetree file from an ARM CMSIS-SVD file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627388297,
+                "language": "Python",
+                "last_commit": "2023-04-13T11:14:20Z",
+                "owner": "thedigitaledge",
+                "repo": "pysvd2dts",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tflite-micro",
+              "description": "TensorFlow Lite for Microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385986873,
+                "language": "C++",
+                "last_commit": "2026-03-14T00:04:20Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "tflite-micro",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zcalendar",
+              "description": "Calendar API with RTC integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337199602,
+                "language": "C",
+                "last_commit": "2025-12-15T15:12:45Z",
+                "owner": "bpbradley",
+                "repo": "zcalendar",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sof",
+              "description": "Audio Digital Signal Processing (DSP) firmware infrastructure and SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319691532,
+                "language": "C",
+                "last_commit": "2025-10-01T14:47:40Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "sof",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lz4",
+              "description": "Extremely Fast Compression algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340032915,
+                "language": "C",
+                "last_commit": "2026-04-29T12:17:10Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "lz4",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
-      "title": "Flash, Debug & Test"
+      "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zephyr Container Images",
+              "description": "Develop Zephyr applications using OCI-compatible Docker images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731819034,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-13T19:36:23Z",
+                "owner": "embeddedcontainers",
+                "repo": "zephyr",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "action-setup-zephyr",
+              "description": "This action initializes a Zephyr based project, downloading the Zephyr SDK and the necessary modules for a West based Zephyr workspace application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 742012509,
+                "language": null,
+                "last_commit": "2026-08-17T09:04:11Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "action-zephyr-setup",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bazel2zephyr",
+              "description": "Embedded/bare-metal development using bazel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440793797,
+                "language": "Starlark",
+                "last_commit": "2021-12-22T13:09:28Z",
+                "owner": "GatCode",
+                "repo": "bazel2zephyr",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Device Tree",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dtsh",
+                  "description": "Shell-like interface to devicetrees.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 526465833,
+                    "language": "Python",
+                    "last_commit": "2026-05-04T05:09:42Z",
+                    "owner": "dottspina",
+                    "repo": "dtsh",
+                    "stars": 74
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build & Config"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "zephyr-ide",
+                  "description": "The Zephyr IDE for VS code extension provides tools to aide in your Zephyr Project work flow.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 794240563,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-28T20:47:24Z",
+                    "owner": "mylonics",
+                    "repo": "zephyr-ide",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zephyr Tools for VSCode",
+                  "description": "Circuit Dojo designed Zephyr Tools to make getting started with Zephyr a snap.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 434732611,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-06T17:28:40Z",
+                    "owner": "circuitdojo",
+                    "repo": "zephyr-tools",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VS Code importer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 406308436,
+                    "language": "Python",
+                    "last_commit": "2023-01-31T02:41:27Z",
+                    "owner": "smrtos",
+                    "repo": "Zephyr2VSC",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zephyrus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 396707838,
+                    "language": "TypeScript",
+                    "last_commit": "2021-09-02T21:57:46Z",
+                    "owner": "tuScale",
+                    "repo": "vscode-zephyrus",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ardesco-VSCode-Extension",
+                  "description": "Ericsson Ardesco device development extension.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 309981973,
+                    "language": "TypeScript",
+                    "last_commit": "2020-12-02T21:21:27Z",
+                    "owner": "Ericsson",
+                    "repo": "Ardesco-VSCode-Extension",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visual Studio Code"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Eclipse",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 215090416,
+                    "language": "Java",
+                    "last_commit": "2022-03-29T21:24:19Z",
+                    "owner": "zephyrproject-rtos",
+                    "repo": "eclipse-plugin",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CMake Zephyr helpers",
+                  "description": "Enhance CMake automation for use with VS Code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362273069,
+                    "language": "CMake",
+                    "last_commit": "2022-05-27T16:06:54Z",
+                    "owner": "thirdpin",
+                    "repo": "Zephyr-CMake-Helpers",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Editors & IDEs"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editors & IDEs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenOCD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99490020,
+                "language": "C",
+                "last_commit": "2026-02-24T04:21:37Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "openocd",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jlink-zephyr",
+              "description": "Zephyr RTOS plugin for JlinkGDBserver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746822245,
+                "language": "C",
+                "last_commit": "2026-03-16T15:26:24Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "jlink-zephyr",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mcumgr",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "iOS",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 261969147,
+                    "language": "Swift",
+                    "last_commit": "2026-08-05T10:39:08Z",
+                    "owner": "nordicsemi",
+                    "repo": "IOS-nRF-Connect-Device-Manager",
+                    "stars": 164
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Android",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 261969351,
+                    "language": "Java",
+                    "last_commit": "2026-08-13T07:39:52Z",
+                    "owner": "nordicsemi",
+                    "repo": "Android-nRF-Connect-Device-Manager",
+                    "stars": 140
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Web",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 447161879,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-18T13:34:35Z",
+                    "owner": "boogie",
+                    "repo": "mcumgr-web",
+                    "stars": 63
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 188147370,
+                "language": "C",
+                "last_commit": "2022-11-16T10:41:08Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "mcumgr",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aerology",
+              "description": "Inspect Zephyr and TF-M applications, post mortem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473235944,
+                "language": "Rust",
+                "last_commit": "2025-01-24T03:16:41Z",
+                "owner": "Linaro",
+                "repo": "aerology",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SEGGER",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188296731,
+                "language": "C",
+                "last_commit": "2026-01-27T11:44:37Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "segger",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GNU Tools (GDB, Binutils)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359509926,
+                "language": "C",
+                "last_commit": "2026-08-02T16:57:51Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "binutils-gdb",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EDTT (Embedded Device Test Tool)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228429618,
+                "language": "Python",
+                "last_commit": "2025-08-13T07:22:00Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "edtt",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libjaylink",
+              "description": "libjaylink is a shared library written in C to access SEGGER J-Link and compatible devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237639809,
+                "language": "C",
+                "last_commit": "2020-02-01T16:20:55Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "libjaylink",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flash, Debug & Test"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1216,11 +1298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270692521,
             "language": "C",
             "last_commit": "2026-08-18T05:03:03Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4220
+            "stars": 4227
           }
         },
         {
@@ -1230,6 +1313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048367968,
             "language": "C",
             "last_commit": "2026-04-22T10:19:36Z",
             "owner": "jakkra",
@@ -1239,16 +1323,12 @@
         }
       ],
       "title": "Open Source Hardware"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:49:12.132Z",
+    "last_updated": "2026-08-19T11:48:57.806Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
+    "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
     "enhanced_repository": "enhansome/enhansome-zephyr-rtos",
     "enhanced_repository_description": null,
