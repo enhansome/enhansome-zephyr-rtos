@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 498789844,
                 "language": "C++",
-                "last_commit": "2026-07-24T13:20:12Z",
+                "last_commit": "2026-08-20T19:06:20Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "ArduinoCore-zephyr",
-                "stars": 63
+                "stars": 65
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-19T13:23:23Z",
+                "last_commit": "2026-08-21T06:38:05Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 591
+                "stars": 592
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-08-18T14:36:09Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 21999
+                "stars": 22001
               }
             },
             {
@@ -387,7 +387,7 @@
                 "archived": false,
                 "id": 184654298,
                 "language": "C",
-                "last_commit": "2026-08-20T11:42:14Z",
+                "last_commit": "2026-08-21T11:50:01Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
                 "stars": 6071
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-19T18:13:47Z",
+                "last_commit": "2026-08-20T22:00:15Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -534,10 +534,10 @@
                     "archived": false,
                     "id": 148686626,
                     "language": "C",
-                    "last_commit": "2026-08-19T19:58:38Z",
+                    "last_commit": "2026-08-20T17:34:08Z",
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
-                    "stars": 240
+                    "stars": 239
                   }
                 },
                 {
@@ -549,7 +549,7 @@
                     "archived": false,
                     "id": 235833583,
                     "language": "C",
-                    "last_commit": "2026-08-17T11:23:31Z",
+                    "last_commit": "2026-08-20T15:28:23Z",
                     "owner": "nordicsemi",
                     "repo": "zcbor",
                     "stars": 165
@@ -603,10 +603,10 @@
                 "archived": false,
                 "id": 207841087,
                 "language": "C",
-                "last_commit": "2026-08-11T09:02:02Z",
+                "last_commit": "2026-08-21T10:43:02Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "mcuboot",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -670,10 +670,10 @@
                 "archived": false,
                 "id": 270692521,
                 "language": "C",
-                "last_commit": "2026-08-18T05:03:03Z",
+                "last_commit": "2026-08-21T07:46:20Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4229
+                "stars": 4231
               }
             },
             {
@@ -733,7 +733,7 @@
                 "last_commit": "2024-03-05T10:50:45Z",
                 "owner": "teslabs",
                 "repo": "spinner",
-                "stars": 109
+                "stars": 110
               }
             },
             {
@@ -938,7 +938,7 @@
                 "archived": false,
                 "id": 742012509,
                 "language": null,
-                "last_commit": "2026-08-17T09:04:11Z",
+                "last_commit": "2026-08-21T11:22:26Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "action-zephyr-setup",
                 "stars": 30
@@ -1126,7 +1126,7 @@
                 "last_commit": "2026-02-24T04:21:37Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "openocd",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -1300,10 +1300,10 @@
             "archived": false,
             "id": 270692521,
             "language": "C",
-            "last_commit": "2026-08-18T05:03:03Z",
+            "last_commit": "2026-08-21T07:46:20Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4229
+            "stars": 4231
           }
         },
         {
@@ -1326,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:51:09.370Z",
+    "last_updated": "2026-08-21T11:50:20.351Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
