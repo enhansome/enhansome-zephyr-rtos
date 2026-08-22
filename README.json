@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-21T06:38:05Z",
+                "last_commit": "2026-08-21T15:23:30Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 592
@@ -375,7 +375,7 @@
                 "last_commit": "2026-08-18T14:36:09Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22001
+                "stars": 22004
               }
             },
             {
@@ -387,10 +387,10 @@
                 "archived": false,
                 "id": 184654298,
                 "language": "C",
-                "last_commit": "2026-08-21T11:50:01Z",
+                "last_commit": "2026-08-22T03:46:18Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6071
+                "stars": 6072
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2025-11-21T22:50:23Z",
                 "owner": "gioblu",
                 "repo": "PJON",
-                "stars": 2815
+                "stars": 2816
               }
             },
             {
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-20T22:00:15Z",
+                "last_commit": "2026-08-22T04:01:22Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -534,7 +534,7 @@
                     "archived": false,
                     "id": 148686626,
                     "language": "C",
-                    "last_commit": "2026-08-20T17:34:08Z",
+                    "last_commit": "2026-08-22T01:37:40Z",
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 239
@@ -673,7 +673,7 @@
                 "last_commit": "2026-08-21T07:46:20Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4231
+                "stars": 4232
               }
             },
             {
@@ -1303,7 +1303,7 @@
             "last_commit": "2026-08-21T07:46:20Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4231
+            "stars": 4232
           }
         },
         {
@@ -1326,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:50:20.351Z",
+    "last_updated": "2026-08-22T11:43:16.719Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
