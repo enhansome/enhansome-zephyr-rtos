@@ -375,7 +375,7 @@
                 "last_commit": "2026-08-18T14:36:09Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22004
+                "stars": 22008
               }
             },
             {
@@ -534,7 +534,7 @@
                     "archived": false,
                     "id": 148686626,
                     "language": "C",
-                    "last_commit": "2026-08-22T01:37:40Z",
+                    "last_commit": "2026-08-22T18:41:45Z",
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 239
@@ -673,7 +673,7 @@
                 "last_commit": "2026-08-21T07:46:20Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4232
+                "stars": 4234
               }
             },
             {
@@ -700,7 +700,7 @@
                 "archived": false,
                 "id": 170995557,
                 "language": "C",
-                "last_commit": "2026-03-02T20:13:35Z",
+                "last_commit": "2026-08-22T12:16:38Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zscilib",
                 "stars": 166
@@ -941,7 +941,7 @@
                 "last_commit": "2026-08-21T11:22:26Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "action-zephyr-setup",
-                "stars": 30
+                "stars": 31
               }
             },
             {
@@ -1176,7 +1176,7 @@
                     "last_commit": "2026-08-19T19:00:40Z",
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
-                    "stars": 140
+                    "stars": 141
                   }
                 },
                 {
@@ -1303,7 +1303,7 @@
             "last_commit": "2026-08-21T07:46:20Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4232
+            "stars": 4234
           }
         },
         {
@@ -1326,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:43:16.719Z",
+    "last_updated": "2026-08-23T11:44:01.987Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
