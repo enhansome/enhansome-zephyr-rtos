@@ -77,7 +77,7 @@
                 "last_commit": "2023-01-13T13:34:56Z",
                 "owner": "lowlander",
                 "repo": "zpp",
-                "stars": 60
+                "stars": 59
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-21T15:23:30Z",
+                "last_commit": "2026-08-24T06:27:37Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 592
+                "stars": 593
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-08-18T14:36:09Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22008
+                "stars": 22009
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-08-22T03:46:18Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6072
+                "stars": 6071
               }
             },
             {
@@ -402,7 +402,7 @@
                 "archived": false,
                 "id": 152950119,
                 "language": "C",
-                "last_commit": "2026-08-19T11:55:22Z",
+                "last_commit": "2026-08-23T11:51:37Z",
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
                 "stars": 132
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-22T04:01:22Z",
+                "last_commit": "2026-08-24T04:35:11Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -670,10 +670,10 @@
                 "archived": false,
                 "id": 270692521,
                 "language": "C",
-                "last_commit": "2026-08-21T07:46:20Z",
+                "last_commit": "2026-08-24T05:02:55Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4234
+                "stars": 4236
               }
             },
             {
@@ -1176,7 +1176,7 @@
                     "last_commit": "2026-08-19T19:00:40Z",
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
-                    "stars": 141
+                    "stars": 142
                   }
                 },
                 {
@@ -1300,10 +1300,10 @@
             "archived": false,
             "id": 270692521,
             "language": "C",
-            "last_commit": "2026-08-21T07:46:20Z",
+            "last_commit": "2026-08-24T05:02:55Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4234
+            "stars": 4236
           }
         },
         {
@@ -1326,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:44:01.987Z",
+    "last_updated": "2026-08-24T11:51:44.971Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
