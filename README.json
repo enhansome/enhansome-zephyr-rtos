@@ -134,6 +134,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ocre",
+              "description": "OCI compliant application container runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843043212,
+                "language": "C",
+                "last_commit": "2026-05-26T11:30:51Z",
+                "owner": "project-ocre",
+                "repo": "ocre-runtime",
+                "stars": 142
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Containerization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "littlefs",
               "description": "Little fail-safe filesystem designed for microcontrollers.",
               "children": [],
@@ -230,7 +252,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-24T06:27:37Z",
+                "last_commit": "2026-08-24T13:53:33Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 593
@@ -372,7 +394,7 @@
                 "archived": false,
                 "id": 15337142,
                 "language": "C",
-                "last_commit": "2026-08-18T14:36:09Z",
+                "last_commit": "2026-08-24T13:50:59Z",
                 "owner": "micropython",
                 "repo": "micropython",
                 "stars": 22009
@@ -439,7 +461,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-24T04:35:11Z",
+                "last_commit": "2026-08-24T14:34:37Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -1284,6 +1306,81 @@
           "description": null,
           "node_type": "group",
           "title": "Flash, Debug & Test"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "QEMU",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Network Tools",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61154550,
+                    "language": "C",
+                    "last_commit": "2026-08-07T14:20:47Z",
+                    "owner": "zephyrproject-rtos",
+                    "repo": "net-tools",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SeaBIOS",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 279707856,
+                    "language": "C",
+                    "last_commit": "2025-07-22T05:15:47Z",
+                    "owner": "zephyrproject-rtos",
+                    "repo": "seabios",
+                    "stars": 1
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 91245943,
+                "language": "C",
+                "last_commit": "2026-07-28T21:19:06Z",
+                "owner": "zephyrproject-rtos",
+                "repo": "qemu",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zephyr-pre-commit-hooks",
+              "description": "A collection of pre-commit hooks for use with Zephyr.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617665086,
+                "language": null,
+                "last_commit": "2023-09-06T04:53:32Z",
+                "owner": "cgnd",
+                "repo": "zephyr-pre-commit-hooks",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Version Control"
         }
       ],
       "title": "Tools"
@@ -1326,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:51:44.971Z",
+    "last_updated": "2026-08-24T14:36:21.446Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
