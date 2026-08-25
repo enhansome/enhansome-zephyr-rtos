@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:18:37Z",
+                "last_commit": "2026-08-25T11:07:32Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 593
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-25T05:06:29Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22010
+                "stars": 22011
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-25T04:18:50Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6072
+                "stars": 6071
               }
             },
             {
@@ -610,7 +610,7 @@
                 "archived": false,
                 "id": 223393131,
                 "language": "C",
-                "last_commit": "2026-08-18T11:13:35Z",
+                "last_commit": "2026-08-25T10:40:58Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "trusted-firmware-m",
                 "stars": 49
@@ -628,7 +628,7 @@
                 "last_commit": "2026-08-21T10:43:02Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "mcuboot",
-                "stars": 41
+                "stars": 42
               }
             },
             {
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:44.228Z",
+    "last_updated": "2026-08-25T11:52:46.575Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",

@@ -5,7 +5,7 @@
 
 > The Zephyr RTOS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 499,777 | 🐛 106 | 📅 2026-08-21
 
 > \[!NOTE]\
 > The Zephyr Project has started to maintain an [awesome list](https://github.com/zephyrproject-rtos/awesome-zephyr-rtos) ⭐ 68 | 🐛 4 | 📅 2026-02-24. We encourage you to check it out and contribute.
@@ -24,9 +24,9 @@
 * [zephyrproject.org](https://www.zephyrproject.org/) - Official website.
 * [docs.zephyrproject.org](https://docs.zephyrproject.org/) - Project documentation.
 * [github](https://github.com/zephyrproject-rtos) - Project GitHub organization.
-  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,305 | 🐛 3,806 | 🌐 C | 📅 2026-08-25 - Main repo.
-  * [west](https://github.com/zephyrproject-rtos/west) ⭐ 360 | 🐛 68 | 🌐 Python | 📅 2026-08-10 - Swiss-army knife command line tool.
-  * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 287 | 🐛 82 | 🌐 C | 📅 2026-08-03 - Next generation toolchains & host tools.
+  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,307 | 🐛 3,822 | 🌐 C | 📅 2026-08-25 - Main repo.
+  * [west](https://github.com/zephyrproject-rtos/west) ⭐ 361 | 🐛 68 | 🌐 Python | 📅 2026-08-10 - Swiss-army knife command line tool.
+  * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 288 | 🐛 82 | 🌐 C | 📅 2026-08-03 - Next generation toolchains & host tools.
   * [example-application](https://github.com/zephyrproject-rtos/example-application) ⭐ 359 | 🐛 2 | 🌐 C | 📅 2026-08-10 - Example out-of-tree application that is also a module.
   * [docker-image](https://github.com/zephyrproject-rtos/docker-image) ⭐ 247 | 🐛 12 | 🌐 Shell | 📅 2026-07-30 - Docker image suitable for development and CI.
 * [discord](https://discord.com/invite/Ck7jw53nU2) - Community chat hosted on Discord.
@@ -82,8 +82,8 @@
 
 ### Languages & Runtimes
 
-* [micropython](https://github.com/micropython/micropython) ⭐ 22,010 | 🐛 1,536 | 🌐 C | 📅 2026-08-25 - a lean and efficient Python implementation for microcontrollers and constrained systems.
-* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,072 | 🐛 604 | 🌐 C | 📅 2026-08-25 - Lightweight standalone WebAssembly (WASM) runtime.
+* [micropython](https://github.com/micropython/micropython) ⭐ 22,011 | 🐛 1,536 | 🌐 C | 📅 2026-08-25 - a lean and efficient Python implementation for microcontrollers and constrained systems.
+* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,071 | 🐛 605 | 🌐 C | 📅 2026-08-25 - Lightweight standalone WebAssembly (WASM) runtime.
 * [lispBM](https://github.com/svenssonjoel/lispBM) ⭐ 132 | 🐛 3 | 🌐 C | 📅 2026-08-23 - LispBM is a lisp or scheme like programming language for microcontrollers.
 
 ### Networking & Protocols
@@ -104,8 +104,8 @@
 
 ### Security
 
-* [TF - M](https://github.com/zephyrproject-rtos/trusted-firmware-m) ⭐ 49 | 🐛 10 | 🌐 C | 📅 2026-08-18 - Platform Security Architecture (PSA) for ARMv7-M and Armv8-M.
-* [MCUboot](https://github.com/zephyrproject-rtos/mcuboot) ⭐ 41 | 🐛 1 | 🌐 C | 📅 2026-08-21 - A secure bootloader for 32-bits microcontrollers.
+* [TF - M](https://github.com/zephyrproject-rtos/trusted-firmware-m) ⭐ 49 | 🐛 8 | 🌐 C | 📅 2026-08-25 - Platform Security Architecture (PSA) for ARMv7-M and Armv8-M.
+* [MCUboot](https://github.com/zephyrproject-rtos/mcuboot) ⭐ 42 | 🐛 1 | 🌐 C | 📅 2026-08-21 - A secure bootloader for 32-bits microcontrollers.
 * [mbed TLS](https://github.com/zephyrproject-rtos/mbedtls) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2026-08-13 - C library that implements cryptographic primitives, X.509 certificate manipulation and the SSL/TLS and DTLS protocols.
 * [aerology](https://github.com/Linaro/aerology) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2025-01-24 - Inspect Zephyr and TF-M applications, post mortem.
 * [tinycrypt](https://github.com/zephyrproject-rtos/tinycrypt) ⭐ 3 | 🐛 2 | 🌐 C | 📅 2024-03-04 - Cryptographic library with a minimal set of standard cryptography primitives.
@@ -194,7 +194,7 @@ Note: the official SDK includes several compilers.
 ### Simulation
 
 * [QEMU](https://github.com/zephyrproject-rtos/qemu) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2026-07-28
-  * [Network Tools](https://github.com/zephyrproject-rtos/net-tools) ⭐ 47 | 🐛 7 | 🌐 C | 📅 2026-08-07
+  * [Network Tools](https://github.com/zephyrproject-rtos/net-tools) ⭐ 47 | 🐛 8 | 🌐 C | 📅 2026-08-07
   * [SeaBIOS](https://github.com/zephyrproject-rtos/seabios) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2025-07-22
 * ACRN
 * [Renode](https://zephyr-dashboard.renode.io/)
