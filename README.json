@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:53:33Z",
+                "last_commit": "2026-08-25T05:18:37Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 593
@@ -394,10 +394,10 @@
                 "archived": false,
                 "id": 15337142,
                 "language": "C",
-                "last_commit": "2026-08-24T13:50:59Z",
+                "last_commit": "2026-08-25T05:06:29Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22009
+                "stars": 22010
               }
             },
             {
@@ -409,10 +409,10 @@
                 "archived": false,
                 "id": 184654298,
                 "language": "C",
-                "last_commit": "2026-08-22T03:46:18Z",
+                "last_commit": "2026-08-25T04:18:50Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6071
+                "stars": 6072
               }
             },
             {
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-24T14:34:37Z",
+                "last_commit": "2026-08-24T23:11:39Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -559,7 +559,7 @@
                     "last_commit": "2026-08-22T18:41:45Z",
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
-                    "stars": 239
+                    "stars": 240
                   }
                 },
                 {
@@ -692,7 +692,7 @@
                 "archived": false,
                 "id": 270692521,
                 "language": "C",
-                "last_commit": "2026-08-24T05:02:55Z",
+                "last_commit": "2026-08-25T05:03:32Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
                 "stars": 4236
@@ -1203,7 +1203,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Web",
+                  "title": "boogie/mcumgr-web",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1372,7 +1372,7 @@
                 "id": 617665086,
                 "language": null,
                 "last_commit": "2023-09-06T04:53:32Z",
-                "owner": "cgnd",
+                "owner": "common-ground-electronics",
                 "repo": "zephyr-pre-commit-hooks",
                 "stars": 4
               }
@@ -1397,7 +1397,7 @@
             "archived": false,
             "id": 270692521,
             "language": "C",
-            "last_commit": "2026-08-24T05:02:55Z",
+            "last_commit": "2026-08-25T05:03:32Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
             "stars": 4236
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:21.446Z",
+    "last_updated": "2026-08-25T06:22:44.228Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
