@@ -17,7 +17,7 @@
                 "last_commit": "2023-10-08T21:51:12Z",
                 "owner": "swedishembedded",
                 "repo": "control",
-                "stars": 178
+                "stars": 179
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-05-26T11:30:51Z",
                 "owner": "project-ocre",
                 "repo": "ocre-runtime",
-                "stars": 142
+                "stars": 143
               }
             }
           ],
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-25T11:07:32Z",
+                "last_commit": "2026-08-25T15:25:29Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 593
@@ -394,7 +394,7 @@
                 "archived": false,
                 "id": 15337142,
                 "language": "C",
-                "last_commit": "2026-08-25T05:06:29Z",
+                "last_commit": "2026-08-26T04:08:53Z",
                 "owner": "micropython",
                 "repo": "micropython",
                 "stars": 22011
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-25T04:18:50Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6071
+                "stars": 6075
               }
             },
             {
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-24T23:11:39Z",
+                "last_commit": "2026-08-26T11:41:33Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -610,10 +610,10 @@
                 "archived": false,
                 "id": 223393131,
                 "language": "C",
-                "last_commit": "2026-08-25T10:40:58Z",
+                "last_commit": "2026-08-26T07:53:25Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "trusted-firmware-m",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -628,7 +628,7 @@
                 "last_commit": "2026-08-21T10:43:02Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "mcuboot",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -695,7 +695,7 @@
                 "last_commit": "2026-08-25T05:03:32Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4236
+                "stars": 4239
               }
             },
             {
@@ -722,7 +722,7 @@
                 "archived": false,
                 "id": 170995557,
                 "language": "C",
-                "last_commit": "2026-08-22T12:16:38Z",
+                "last_commit": "2026-08-26T04:31:29Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zscilib",
                 "stars": 166
@@ -1195,7 +1195,7 @@
                     "archived": false,
                     "id": 261969351,
                     "language": "Java",
-                    "last_commit": "2026-08-19T19:00:40Z",
+                    "last_commit": "2026-08-26T06:36:59Z",
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
                     "stars": 142
@@ -1224,7 +1224,7 @@
                 "last_commit": "2022-11-16T10:41:08Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "mcumgr",
-                "stars": 36
+                "stars": 35
               }
             },
             {
@@ -1400,7 +1400,7 @@
             "last_commit": "2026-08-25T05:03:32Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4236
+            "stars": 4239
           }
         },
         {
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:52:46.575Z",
+    "last_updated": "2026-08-26T11:54:11.406Z",
     "original_repository": "golioth/awesome-zephyr-rtos",
     "original_repository_id": 463883920,
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
