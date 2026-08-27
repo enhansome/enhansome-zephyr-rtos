@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-26T13:13:20Z",
+                "last_commit": "2026-08-27T15:25:07Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 593
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-27T05:42:12Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22013
+                "stars": 22014
               }
             },
             {
@@ -424,7 +424,7 @@
                 "archived": false,
                 "id": 152950119,
                 "language": "C",
-                "last_commit": "2026-08-23T11:51:37Z",
+                "last_commit": "2026-08-27T19:43:05Z",
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
                 "stars": 132
@@ -464,7 +464,7 @@
                 "last_commit": "2026-08-26T21:38:53Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
-                "stars": 587
+                "stars": 588
               }
             },
             {
@@ -695,7 +695,7 @@
                 "last_commit": "2026-08-25T05:03:32Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4239
+                "stars": 4240
               }
             },
             {
@@ -1400,7 +1400,7 @@
             "last_commit": "2026-08-25T05:03:32Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4239
+            "stars": 4240
           }
         },
         {
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:53.455Z",
+    "last_updated": "2026-08-27T21:04:33.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 463883920,
