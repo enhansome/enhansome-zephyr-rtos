@@ -233,7 +233,7 @@
                 "last_commit": "2025-06-03T10:41:15Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "cmsis",
-                "stars": 14
+                "stars": 15
               }
             }
           ],
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:25:29Z",
+                "last_commit": "2026-08-26T13:13:20Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 593
@@ -394,10 +394,10 @@
                 "archived": false,
                 "id": 15337142,
                 "language": "C",
-                "last_commit": "2026-08-26T04:08:53Z",
+                "last_commit": "2026-08-27T05:42:12Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22011
+                "stars": 22013
               }
             },
             {
@@ -409,10 +409,10 @@
                 "archived": false,
                 "id": 184654298,
                 "language": "C",
-                "last_commit": "2026-08-25T04:18:50Z",
+                "last_commit": "2026-08-26T22:46:09Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6075
+                "stars": 6076
               }
             },
             {
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-26T11:41:33Z",
+                "last_commit": "2026-08-26T21:38:53Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 587
@@ -610,7 +610,7 @@
                 "archived": false,
                 "id": 223393131,
                 "language": "C",
-                "last_commit": "2026-08-26T07:53:25Z",
+                "last_commit": "2026-08-26T22:51:56Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "trusted-firmware-m",
                 "stars": 50
@@ -1021,10 +1021,10 @@
                     "archived": false,
                     "id": 794240563,
                     "language": "TypeScript",
-                    "last_commit": "2026-07-28T20:47:24Z",
+                    "last_commit": "2026-08-26T23:09:25Z",
                     "owner": "mylonics",
                     "repo": "zephyr-ide",
-                    "stars": 96
+                    "stars": 97
                   }
                 },
                 {
@@ -1195,7 +1195,7 @@
                     "archived": false,
                     "id": 261969351,
                     "language": "Java",
-                    "last_commit": "2026-08-26T06:36:59Z",
+                    "last_commit": "2026-08-26T15:09:40Z",
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
                     "stars": 142
@@ -1423,9 +1423,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:54:11.406Z",
-    "original_repository": "golioth/awesome-zephyr-rtos",
-    "original_repository_id": 463883920,
+    "last_updated": "2026-08-27T12:14:53.455Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 463883920,
+      "language": null,
+      "last_commit": "2024-12-11T22:51:16Z",
+      "owner": "golioth",
+      "repo": "awesome-zephyr-rtos",
+      "stars": 228
+    },
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
     "enhanced_repository": "enhansome/enhansome-zephyr-rtos",
     "enhanced_repository_description": null,
