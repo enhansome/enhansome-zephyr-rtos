@@ -18,7 +18,8 @@
                 "owner": "swedishembedded",
                 "repo": "control",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "micro-ROS",
                 "repo": "micro_ros_zephyr_module",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "swedishembedded",
                 "repo": "sdk",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-20T19:06:20Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "ArduinoCore-zephyr",
-                "stars": 65
-              }
+                "stars": 64
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "lowlander",
                 "repo": "zpp",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "open-amp",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "chre",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "svenssonjoel",
                 "repo": "Sense-VM",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -145,7 +153,8 @@
                 "owner": "project-ocre",
                 "repo": "ocre-runtime",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -167,7 +176,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "littlefs",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -178,11 +188,12 @@
                 "archived": false,
                 "id": 188139070,
                 "language": "C",
-                "last_commit": "2026-07-22T10:34:34Z",
+                "last_commit": "2026-08-28T07:40:56Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "fatfs",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "nffs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -215,11 +227,12 @@
                 "archived": false,
                 "id": 185796104,
                 "language": "C",
-                "last_commit": "2026-05-05T08:15:26Z",
+                "last_commit": "2026-08-28T10:22:50Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "libmetal",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "cmsis",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -252,11 +266,12 @@
                 "archived": false,
                 "id": 45860898,
                 "language": "Java",
-                "last_commit": "2026-08-27T15:25:07Z",
+                "last_commit": "2026-08-28T15:24:36Z",
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 593
-              }
+                "stars": 594
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -267,11 +282,12 @@
                 "archived": false,
                 "id": 193568549,
                 "language": "C",
-                "last_commit": "2026-08-05T18:30:15Z",
+                "last_commit": "2026-08-28T20:39:10Z",
                 "owner": "memfault",
                 "repo": "memfault-firmware-sdk",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "koenvervloesem",
                 "repo": "openhaystack-zephyr",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "golioth",
                 "repo": "golioth-zephyr-sdk",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "koenvervloesem",
                 "repo": "send-my-sensor",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "ThingSet",
                 "repo": "thingset-zephyr-sdk",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "edgeimpulse",
                 "repo": "example-standalone-inferencing-zephyr",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "AVSystem",
                 "repo": "Anjay-zephyr",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "mustafaabdullahk",
                 "repo": "zephyrus",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -394,11 +417,12 @@
                 "archived": false,
                 "id": 15337142,
                 "language": "C",
-                "last_commit": "2026-08-27T05:42:12Z",
+                "last_commit": "2026-08-28T08:29:56Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22014
-              }
+                "stars": 22017
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -409,11 +433,12 @@
                 "archived": false,
                 "id": 184654298,
                 "language": "C",
-                "last_commit": "2026-08-26T22:46:09Z",
+                "last_commit": "2026-08-28T07:28:23Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6076
-              }
+                "stars": 6079
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -424,11 +449,12 @@
                 "archived": false,
                 "id": 152950119,
                 "language": "C",
-                "last_commit": "2026-08-27T19:43:05Z",
+                "last_commit": "2026-08-28T19:58:33Z",
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -450,7 +476,8 @@
                 "owner": "gioblu",
                 "repo": "PJON",
                 "stars": 2816
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -461,11 +488,12 @@
                 "archived": false,
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-26T21:38:53Z",
+                "last_commit": "2026-08-28T21:25:53Z",
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
-                "stars": 588
-              }
+                "stars": 589
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "openthread",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -495,7 +524,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "canopennode",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -510,7 +540,8 @@
                 "owner": "cfriedt",
                 "repo": "greybus-for-zephyr",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -525,7 +556,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "nanopb",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -540,7 +572,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "civetweb",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "group",
@@ -556,11 +589,12 @@
                     "archived": false,
                     "id": 148686626,
                     "language": "C",
-                    "last_commit": "2026-08-22T18:41:45Z",
+                    "last_commit": "2026-08-28T18:53:19Z",
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 240
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -575,7 +609,8 @@
                     "owner": "nordicsemi",
                     "repo": "zcbor",
                     "stars": 165
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -590,7 +625,8 @@
                     "owner": "zephyrproject-rtos",
                     "repo": "tinycbor",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ]
             }
@@ -614,7 +650,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "trusted-firmware-m",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -629,7 +666,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "mcuboot",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -644,7 +682,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "mbedtls",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -659,7 +698,8 @@
                 "owner": "Linaro",
                 "repo": "aerology",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -674,7 +714,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "tinycrypt",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -692,11 +733,12 @@
                 "archived": false,
                 "id": 270692521,
                 "language": "C",
-                "last_commit": "2026-08-25T05:03:32Z",
+                "last_commit": "2026-08-28T05:03:35Z",
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4240
-              }
+                "stars": 4243
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -711,7 +753,8 @@
                 "owner": "tylerwhall",
                 "repo": "zephyr-rust",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -726,7 +769,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "zscilib",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -741,7 +785,8 @@
                 "owner": "najnesnaj",
                 "repo": "pinetime-zephyr",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -756,7 +801,8 @@
                 "owner": "teslabs",
                 "repo": "spinner",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -771,7 +817,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "lvgl",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -786,7 +833,8 @@
                 "owner": "intel",
                 "repo": "ecfw-zephyr",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -801,7 +849,8 @@
                 "owner": "stuffmatic",
                 "repo": "zephyr-usb-midi",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -816,7 +865,8 @@
                 "owner": "iwasz",
                 "repo": "zephyr-grbl",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -831,7 +881,8 @@
                 "owner": "Linaro",
                 "repo": "step",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -846,7 +897,8 @@
                 "owner": "zephyr-bus",
                 "repo": "zbus",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -861,7 +913,8 @@
                 "owner": "thedigitaledge",
                 "repo": "pysvd2dts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -876,7 +929,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "tflite-micro",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -891,7 +945,8 @@
                 "owner": "bpbradley",
                 "repo": "zcalendar",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -906,7 +961,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "sof",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -921,7 +977,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "lz4",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -949,7 +1006,8 @@
                 "owner": "embeddedcontainers",
                 "repo": "zephyr",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -960,11 +1018,12 @@
                 "archived": false,
                 "id": 742012509,
                 "language": null,
-                "last_commit": "2026-08-21T11:22:26Z",
+                "last_commit": "2026-08-28T10:25:36Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "action-zephyr-setup",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -979,7 +1038,8 @@
                 "owner": "GatCode",
                 "repo": "bazel2zephyr",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "group",
@@ -999,7 +1059,8 @@
                     "owner": "dottspina",
                     "repo": "dtsh",
                     "stars": 74
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ]
             }
@@ -1025,7 +1086,8 @@
                     "owner": "mylonics",
                     "repo": "zephyr-ide",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1040,7 +1102,8 @@
                     "owner": "circuitdojo",
                     "repo": "zephyr-tools",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1055,7 +1118,8 @@
                     "owner": "smrtos",
                     "repo": "Zephyr2VSC",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1070,7 +1134,8 @@
                     "owner": "tuScale",
                     "repo": "vscode-zephyrus",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1085,7 +1150,8 @@
                     "owner": "Ericsson",
                     "repo": "Ardesco-VSCode-Extension",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ],
               "description": null,
@@ -1107,7 +1173,8 @@
                     "owner": "zephyrproject-rtos",
                     "repo": "eclipse-plugin",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1122,7 +1189,8 @@
                     "owner": "thirdpin",
                     "repo": "Zephyr-CMake-Helpers",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ],
               "description": null,
@@ -1149,7 +1217,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "openocd",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1164,7 +1233,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "jlink-zephyr",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1180,11 +1250,12 @@
                     "archived": false,
                     "id": 261969147,
                     "language": "Swift",
-                    "last_commit": "2026-08-05T10:39:08Z",
+                    "last_commit": "2026-08-28T10:29:05Z",
                     "owner": "nordicsemi",
                     "repo": "IOS-nRF-Connect-Device-Manager",
                     "stars": 164
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1198,8 +1269,9 @@
                     "last_commit": "2026-08-26T15:09:40Z",
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
-                    "stars": 142
-                  }
+                    "stars": 143
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1214,7 +1286,8 @@
                     "owner": "boogie",
                     "repo": "mcumgr-web",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ],
               "repo_info": {
@@ -1225,7 +1298,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "mcumgr",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1240,7 +1314,8 @@
                 "owner": "Linaro",
                 "repo": "aerology",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1255,7 +1330,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "segger",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1270,7 +1346,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "binutils-gdb",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1285,7 +1362,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "edtt",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1300,7 +1378,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "libjaylink",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -1327,7 +1406,8 @@
                     "owner": "zephyrproject-rtos",
                     "repo": "net-tools",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 },
                 {
                   "node_type": "item",
@@ -1342,7 +1422,8 @@
                     "owner": "zephyrproject-rtos",
                     "repo": "seabios",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ],
               "repo_info": {
@@ -1353,7 +1434,8 @@
                 "owner": "zephyrproject-rtos",
                 "repo": "qemu",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -1375,7 +1457,8 @@
                 "owner": "common-ground-electronics",
                 "repo": "zephyr-pre-commit-hooks",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
             }
           ],
           "description": null,
@@ -1397,11 +1480,12 @@
             "archived": false,
             "id": 270692521,
             "language": "C",
-            "last_commit": "2026-08-25T05:03:32Z",
+            "last_commit": "2026-08-28T05:03:35Z",
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4240
-          }
+            "stars": 4243
+          },
+          "first_seen": "2026-08-28T21:28:39.785Z"
         },
         {
           "node_type": "item",
@@ -1416,14 +1500,15 @@
             "owner": "jakkra",
             "repo": "ZSWatch",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:28:39.785Z"
         }
       ],
       "title": "Open Source Hardware"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:04:33.215Z",
+    "last_updated": "2026-08-28T21:28:39.785Z",
     "original_repository_info": {
       "archived": false,
       "id": 463883920,
