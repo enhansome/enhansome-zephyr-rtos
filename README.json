@@ -670,7 +670,7 @@
                 "open_issues": 1534,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22019,
+                "stars": 22020,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -696,7 +696,7 @@
                 "open_issues": 605,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6079,
+                "stars": 6080,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -728,7 +728,7 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T19:58:33Z",
+                "last_commit": "2026-08-29T15:07:06Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
@@ -815,7 +815,7 @@
                 "open_issues": 92,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
-                "stars": 589,
+                "stars": 591,
                 "topics": [
                   "avr",
                   "bacnet",
@@ -1184,10 +1184,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-08-28T05:03:35Z",
-                "open_issues": 419,
+                "open_issues": 418,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4243,
+                "stars": 4242,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -1958,7 +1958,7 @@
                     "open_issues": 20,
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
@@ -2256,10 +2256,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-08-28T05:03:35Z",
-            "open_issues": 419,
+            "open_issues": 418,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4243,
+            "stars": 4242,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:02.302Z",
+    "last_updated": "2026-08-29T15:43:22.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
