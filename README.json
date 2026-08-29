@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded Firmware Control Systems Toolbox (Pure C and GNU Octave)",
+                "homepage": "https://swedishembedded.com/sdk",
                 "id": 525080260,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2023-10-08T21:51:12Z",
+                "open_issues": 0,
                 "owner": "swedishembedded",
                 "repo": "control",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "c",
+                  "control-systems",
+                  "embedded-c",
+                  "embedded-systems",
+                  "firmware",
+                  "system-identification",
+                  "system-identification-toolbox",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -28,12 +43,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "micro-ROS Zephyr module and sample code",
+                "homepage": null,
                 "id": 297243925,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T11:41:49Z",
+                "open_issues": 19,
                 "owner": "micro-ROS",
                 "repo": "micro_ros_zephyr_module",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "micro-ros",
+                  "zephyr"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -44,12 +67,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded firmware development, simulation and verification SDK",
+                "homepage": "https://swedishembedded.com/sdk",
                 "id": 518429195,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-13T22:11:50Z",
+                "open_issues": 4,
                 "owner": "swedishembedded",
                 "repo": "sdk",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "cmock",
+                  "embedded",
+                  "embedded-c",
+                  "firmware",
+                  "microcontroller",
+                  "platform",
+                  "sdk",
+                  "unity",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -60,12 +99,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino Core API module for ZephyrRTOS",
+                "homepage": null,
                 "id": 498789844,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T19:06:20Z",
+                "open_issues": 23,
                 "owner": "zephyrproject-rtos",
                 "repo": "ArduinoCore-zephyr",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "gsoc-2022",
+                  "module",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -76,12 +125,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr C++ Framework",
+                "homepage": "https://www.erwinrol.com/page/projects/zpp/",
                 "id": 212470642,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-13T13:34:56Z",
+                "open_issues": 2,
                 "owner": "lowlander",
                 "repo": "zpp",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp-library",
+                  "cpp20",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -92,12 +153,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open-amp module for zephyr, this is not an official mirror of the open-amp repo",
+                "homepage": null,
                 "id": 185796479,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-05T08:18:19Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "open-amp",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -108,12 +176,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Context Hub Runtime Environment (CHRE)",
+                "homepage": null,
                 "id": 447376289,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-03-13T19:34:36Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "chre",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -124,12 +199,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sense-VM has changed name to SynchronVM and is available in a new repository https://github.com/SynchronVM/SynchronVM",
+                "homepage": null,
                 "id": 278055791,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-05-14T06:37:05Z",
+                "open_issues": 19,
                 "owner": "svenssonjoel",
                 "repo": "Sense-VM",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bytecode",
+                  "categorical-abstract-machine",
+                  "chibios",
+                  "concurrency",
+                  "concurrent-ml",
+                  "iot",
+                  "nrf52",
+                  "stm32f4",
+                  "virtual-machine",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -147,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Leveraging WebAssembly, Ocre supports OCI-like application containers on Zephyr and Linux in a footprint up to 2,000x lighter than traditional Linux-based container runtimes such as Docker and Podman",
+                "homepage": "https://lfedge.org/projects/ocre/",
                 "id": 843043212,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-26T11:30:51Z",
+                "open_issues": 17,
                 "owner": "project-ocre",
                 "repo": "ocre-runtime",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -170,12 +266,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "littlefs module for Zephyr, not a mirror of the official littlefs repository",
+                "homepage": null,
                 "id": 198808652,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-18T16:14:53Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "littlefs",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "filesystem",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -186,12 +290,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This implementation of file system is developed by ELM Chan",
+                "homepage": null,
                 "id": 188139070,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-28T07:40:56Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "fatfs",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "filesystem",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -202,12 +314,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 188292057,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-12-10T01:46:55Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "nffs",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "filesystem",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -225,12 +345,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The libmetal module specific for use with Zephyr. This is not a mirror of the official libmetal repo.",
+                "homepage": null,
                 "id": 185796104,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-28T10:22:50Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "libmetal",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -241,12 +368,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr repository tracking https://github.com/ARM-software/CMSIS_5",
+                "homepage": null,
                 "id": 248545339,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-03T10:41:15Z",
+                "open_issues": 2,
                 "owner": "zephyrproject-rtos",
                 "repo": "cmsis",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "hal",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -264,12 +399,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eclipse hawkBit™",
+                "homepage": "https://projects.eclipse.org/projects/iot.hawkbit",
                 "id": 45860898,
                 "language": "Java",
+                "license": "EPL-2.0",
                 "last_commit": "2026-08-28T15:24:36Z",
+                "open_issues": 69,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "eclipseiot",
+                  "internet-of-things",
+                  "iot",
+                  "software-provisioning"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -280,12 +425,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memfault SDK for embedded systems. Observability, logging, crash reporting, and OTA all in one service. More information at https://docs.memfault.com.",
+                "homepage": "https://memfault.com",
                 "id": 193568549,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:39:10Z",
+                "open_issues": 6,
                 "owner": "memfault",
                 "repo": "memfault-firmware-sdk",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "c",
+                  "embedded",
+                  "firmware",
+                  "fota",
+                  "memfault",
+                  "observability",
+                  "ota",
+                  "rtos",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -296,12 +456,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr-based OpenHaystack firmware to track your personal Bluetooth devices via Apple's Find My network",
+                "homepage": null,
                 "id": 390397478,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-06-10T13:57:41Z",
+                "open_issues": 1,
                 "owner": "koenvervloesem",
                 "repo": "openhaystack-zephyr",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "bbc-microbit",
+                  "ble",
+                  "bluetooth-low-energy",
+                  "find-my",
+                  "nrf52840",
+                  "openhaystack",
+                  "ruuvitag",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -312,12 +487,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Golioth SDK For Zephyr",
+                "homepage": "https://www.golioth.io",
                 "id": 333533946,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-06T16:32:22Z",
+                "open_issues": 11,
                 "owner": "golioth",
                 "repo": "golioth-zephyr-sdk",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "coap",
+                  "esp32",
+                  "espressif",
+                  "feather",
+                  "golioth",
+                  "internet-of-things",
+                  "iot",
+                  "nordic-semiconductor",
+                  "nordicsemi",
+                  "real-time-operating-system",
+                  "rtos",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -328,12 +522,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr-based firmware to upload sensor data via Apple's Find My network",
+                "homepage": null,
                 "id": 390475617,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-06-10T13:57:04Z",
+                "open_issues": 1,
                 "owner": "koenvervloesem",
                 "repo": "send-my-sensor",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "ble",
+                  "bluetooth-low-energy",
+                  "bme280",
+                  "find-my",
+                  "nrf52840",
+                  "openhaystack",
+                  "ruuvitag",
+                  "ruuvitag-sensor",
+                  "sensor",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -344,12 +555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ThingSet SDK for Zephyr RTOS",
+                "homepage": "https://thingset.io/thingset-zephyr-sdk/",
                 "id": 551862211,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-16T06:51:42Z",
+                "open_issues": 7,
                 "owner": "ThingSet",
                 "repo": "thingset-zephyr-sdk",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -360,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 303304603,
                 "language": "CMake",
+                "license": "BSD-3-Clause-Clear",
                 "last_commit": "2025-07-22T08:07:41Z",
+                "open_issues": 2,
                 "owner": "edgeimpulse",
                 "repo": "example-standalone-inferencing-zephyr",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -376,12 +597,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Anjay LwM2M library module for Zephyr.",
+                "homepage": null,
                 "id": 372733202,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-10T12:44:58Z",
+                "open_issues": 1,
                 "owner": "AVSystem",
                 "repo": "Anjay-zephyr",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "iot",
+                  "lwm2m",
+                  "lwm2m-client",
+                  "zephyr"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -392,12 +623,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zephyr prometheus client library",
+                "homepage": null,
                 "id": 783801430,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-12T15:51:11Z",
+                "open_issues": 0,
                 "owner": "mustafaabdullahk",
                 "repo": "zephyrus",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "metrics",
+                  "module",
+                  "prometheus",
+                  "prometheus-client",
+                  "prometheus-client-library",
+                  "zephyr",
+                  "zephyr-module",
+                  "zephyr-modules",
+                  "zephyrproject-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -415,12 +661,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+                "homepage": "https://micropython.org",
                 "id": 15337142,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:29:56Z",
+                "open_issues": 1534,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22017
+                "stars": 22019,
+                "topics": [
+                  "embedded",
+                  "microcontroller",
+                  "micropython",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -431,12 +687,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebAssembly Micro Runtime (WAMR)",
+                "homepage": null,
                 "id": 184654298,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:28:23Z",
+                "open_issues": 605,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6079
+                "stars": 6079,
+                "topics": [
+                  "aot",
+                  "assembly-script",
+                  "embedded",
+                  "interpreter",
+                  "iot",
+                  "jit",
+                  "pthread",
+                  "runtime",
+                  "sgx",
+                  "wasi-nn",
+                  "wasi-threads",
+                  "wasm",
+                  "wasm-socket",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -447,12 +723,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interpreter for a concurrent lisp with message-passing and pattern-matching.",
+                "homepage": "http://www.lispbm.com",
                 "id": 152950119,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:58:33Z",
+                "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "chibios",
+                  "concurrency",
+                  "esp32",
+                  "freertos",
+                  "functional-programming",
+                  "interpreter",
+                  "language",
+                  "lisp",
+                  "microcontroller",
+                  "nrf52",
+                  "pattern-matching",
+                  "programming-language",
+                  "quasiquotation",
+                  "repl",
+                  "riscv32",
+                  "stm32f4",
+                  "zephyr"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -470,12 +769,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.",
+                "homepage": null,
                 "id": 27359253,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-21T22:50:23Z",
+                "open_issues": 60,
                 "owner": "gioblu",
                 "repo": "PJON",
-                "stars": 2816
+                "stars": 2816,
+                "topics": [
+                  "arduino",
+                  "attiny",
+                  "esp32",
+                  "esp8266",
+                  "home-automation",
+                  "iot",
+                  "lora",
+                  "lorawan",
+                  "mqtt",
+                  "networking",
+                  "protocol",
+                  "rpi",
+                  "samd",
+                  "stm32",
+                  "teensy"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -486,12 +806,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BACnet Protocol Stack library provides a BACnet application layer, network layer and media access (MAC) layer communications services.",
+                "homepage": "http://bacnet.sourceforge.net/",
                 "id": 213168548,
                 "language": "C",
-                "last_commit": "2026-08-28T21:25:53Z",
+                "license": null,
+                "last_commit": "2026-08-29T01:24:17Z",
+                "open_issues": 92,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
-                "stars": 589
+                "stars": 589,
+                "topics": [
+                  "avr",
+                  "bacnet",
+                  "bacnet-client",
+                  "bacnet-ip",
+                  "bacnet-library",
+                  "bacnet-server",
+                  "c",
+                  "command-line",
+                  "command-line-tool",
+                  "command-line-tools",
+                  "embedded",
+                  "iot",
+                  "ip",
+                  "ipv4",
+                  "ipv6",
+                  "linux",
+                  "microcontroller",
+                  "mstp",
+                  "stm32",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -502,12 +848,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openthread module for Zephyr, not a mirror of the official openthread repository",
+                "homepage": "https://github.com/openthread/openthread",
                 "id": 198396091,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-06T16:13:01Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "openthread",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "module",
+                  "networking"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -518,12 +872,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr repository tracking https://github.com/CANopenNode/CANopenNode",
+                "homepage": null,
                 "id": 234373971,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-07T06:34:26Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "canopennode",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "can",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -534,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Greybus Module for the Zephyr Real-Time Operating System",
+                "homepage": null,
                 "id": 292881776,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-07-01T16:30:39Z",
+                "open_issues": 30,
                 "owner": "cfriedt",
                 "repo": "greybus-for-zephyr",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -550,12 +917,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Protocol Buffers with small code size",
+                "homepage": "https://jpa.kapsi.fi/nanopb/",
                 "id": 351842503,
                 "language": "C",
+                "license": "Zlib",
                 "last_commit": "2026-03-03T07:23:02Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "nanopb",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -566,12 +940,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Embedded C/C++ web server (obsolete)",
+                "homepage": null,
                 "id": 207842539,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-29T18:26:01Z",
+                "open_issues": 3,
                 "owner": "zephyrproject-rtos",
                 "repo": "civetweb",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "module",
+                  "networking"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -587,12 +969,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Comprehensive, powerful, commercial-quality CBOR encoder/ decoder that is still suited for small devices.",
+                    "homepage": null,
                     "id": 148686626,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:53:19Z",
+                    "open_issues": 26,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
-                    "stars": 240
+                    "stars": 240,
+                    "topics": [
+                      "c",
+                      "cbor",
+                      "cbor-encoder",
+                      "cbor-library",
+                      "iot",
+                      "portable",
+                      "rfc-7049",
+                      "rfc-8949",
+                      "serialization",
+                      "serialization-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -603,12 +1001,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Low footprint C/C++ CBOR library and Python tool providing code generation from CDDL descriptions.",
+                    "homepage": null,
                     "id": 235833583,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T15:28:23Z",
+                    "open_issues": 32,
                     "owner": "nordicsemi",
                     "repo": "zcbor",
-                    "stars": 165
+                    "stars": 165,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -619,12 +1022,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Concise Binary Object Representation (CBOR) Library",
+                    "homepage": null,
                     "id": 120491777,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2022-04-07T10:33:32Z",
+                    "open_issues": 0,
                     "owner": "zephyrproject-rtos",
                     "repo": "tinycbor",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "cbor",
+                      "module"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 }
@@ -644,12 +1055,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr repository tracking https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git",
+                "homepage": null,
                 "id": 223393131,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T22:51:56Z",
+                "open_issues": 8,
                 "owner": "zephyrproject-rtos",
                 "repo": "trusted-firmware-m",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -660,12 +1078,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure boot for 32-bit Microcontrollers!",
+                "homepage": null,
                 "id": 207841087,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T10:43:02Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "mcuboot",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "bootloader",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -676,12 +1102,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mbedtls module for Zephyr, this is not a mirror of the official mbedtls repository.",
+                "homepage": "https://github.com/Mbed-TLS/mbedtls",
                 "id": 185797050,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T09:51:35Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "mbedtls",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "crypto",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -692,12 +1126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect Zephyr and TFM applications, post mortem",
+                "homepage": "https://linaro.github.io/aerology/",
                 "id": 473235944,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-24T03:16:41Z",
+                "open_issues": 2,
                 "owner": "Linaro",
                 "repo": "aerology",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -708,12 +1147,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zephyr repository tracking https://github.com/intel/tinycrypt",
+                "homepage": null,
                 "id": 248730195,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-03-04T14:22:55Z",
+                "open_issues": 2,
                 "owner": "zephyrproject-rtos",
                 "repo": "tinycrypt",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "crypto",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -731,12 +1178,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZMK Firmware Repository",
+                "homepage": "https://zmk.dev/",
                 "id": 270692521,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:03:35Z",
+                "open_issues": 419,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4243
+                "stars": 4243,
+                "topics": [
+                  "bluetooth",
+                  "hacktoberfest",
+                  "keyboard",
+                  "keyboard-firmware",
+                  "mechanical-keyboard",
+                  "wireless",
+                  "zephyr",
+                  "zmk"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -747,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API bindings, libstd, and Cargo integration for running Rust applications on a Zephyr kernel",
+                "homepage": null,
                 "id": 186533463,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-21T05:03:07Z",
+                "open_issues": 9,
                 "owner": "tylerwhall",
                 "repo": "zephyr-rust",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -763,12 +1229,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source scientific computing library for embedded systems running Zephyr OS or standalone.",
+                "homepage": "https://zephyrproject-rtos.github.io/zscilib/",
                 "id": 170995557,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T04:31:29Z",
+                "open_issues": 21,
                 "owner": "zephyrproject-rtos",
                 "repo": "zscilib",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "arm",
+                  "embedded",
+                  "module",
+                  "zephyr"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -779,12 +1255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pinetime smartwatch nrf52 zephyr ",
+                "homepage": null,
                 "id": 223597268,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-22T19:36:50Z",
+                "open_issues": 1,
                 "owner": "najnesnaj",
                 "repo": "pinetime-zephyr",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -795,12 +1276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FOC Motor Control Firmware",
+                "homepage": null,
                 "id": 272495550,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-05T10:50:45Z",
+                "open_issues": 0,
                 "owner": "teslabs",
                 "repo": "spinner",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -811,12 +1297,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 195139685,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-01T09:25:13Z",
+                "open_issues": 6,
                 "owner": "zephyrproject-rtos",
                 "repo": "lvgl",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "display",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -827,12 +1321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 228485657,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T00:04:00Z",
+                "open_issues": 3,
                 "owner": "intel",
                 "repo": "ecfw-zephyr",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -843,12 +1342,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A configurable USB MIDI 1.0 device class driver for the Zephyr RTOS.",
+                "homepage": null,
                 "id": 583891173,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-03-03T06:59:10Z",
+                "open_issues": 2,
                 "owner": "stuffmatic",
                 "repo": "zephyr-usb-midi",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "embedded",
+                  "midi",
+                  "usb",
+                  "usb-midi",
+                  "usb-midi-controller",
+                  "usb-midi-device",
+                  "usb-midi-interface",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -859,12 +1373,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Started as a firmware for https://hackaday.io/project/177237-corexy-pen-plotter, possibly could be adapted to other CNCs as well.",
+                "homepage": null,
                 "id": 397305115,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-07-04T17:14:38Z",
+                "open_issues": 1,
                 "owner": "iwasz",
                 "repo": "zephyr-grbl",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "cnc",
+                  "grbl",
+                  "stm32",
+                  "zephyr",
+                  "zephyr-rtos",
+                  "zephyros"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -875,12 +1401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure data pipeline proof of concept module for Zephyr RTOS",
+                "homepage": null,
                 "id": 376259511,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-19T13:50:59Z",
+                "open_issues": 2,
                 "owner": "Linaro",
                 "repo": "step",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -891,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is inter thread communication bus developed to run into Zephyr ",
+                "homepage": null,
                 "id": 432735773,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-07-29T21:15:03Z",
+                "open_issues": 5,
                 "owner": "zephyr-bus",
                 "repo": "zbus",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -907,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates a Zephyr Devicetree file from an ARM CMSIS-SVD file ",
+                "homepage": null,
                 "id": 627388297,
                 "language": "Python",
+                "license": "0BSD",
                 "last_commit": "2023-04-13T11:14:20Z",
+                "open_issues": 0,
                 "owner": "thedigitaledge",
                 "repo": "pysvd2dts",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -923,12 +1464,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow Lite for Microcontrollers",
+                "homepage": null,
                 "id": 385986873,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-14T00:04:20Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "tflite-micro",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -939,12 +1487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Calendar API for Zephyr RTOS",
+                "homepage": null,
                 "id": 337199602,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T15:12:45Z",
+                "open_issues": 1,
                 "owner": "bpbradley",
                 "repo": "zcalendar",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -955,12 +1508,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sound Open Firmware",
+                "homepage": null,
                 "id": 319691532,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-01T14:47:40Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "sof",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -971,12 +1531,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extremely Fast Compression algorithm",
+                "homepage": "http://www.lz4.org",
                 "id": 340032915,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-29T12:17:10Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "lz4",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "compression",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -1000,12 +1568,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performance-optimized container images for building Zephyr RTOS applications.",
+                "homepage": null,
                 "id": 731819034,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-08-13T19:36:23Z",
+                "open_issues": 3,
                 "owner": "embeddedcontainers",
                 "repo": "zephyr",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "docker",
+                  "docker-image",
+                  "dockerfile",
+                  "embedded",
+                  "embedded-c",
+                  "embedded-systems",
+                  "oci",
+                  "oci-image",
+                  "rtos",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1016,12 +1600,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action to set up Zephyr build environment",
+                "homepage": null,
                 "id": 742012509,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:25:36Z",
+                "open_issues": 7,
                 "owner": "zephyrproject-rtos",
                 "repo": "action-zephyr-setup",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "actions",
+                  "ci"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1032,12 +1624,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hands-on tutorial on building a static library (.a) with Bazel and linking it into a Zephyr based project.",
+                "homepage": null,
                 "id": 440793797,
                 "language": "Starlark",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-22T13:09:28Z",
+                "open_issues": 0,
                 "owner": "GatCode",
                 "repo": "bazel2zephyr",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "arm",
+                  "bazel",
+                  "cortex-m",
+                  "nordic",
+                  "nrf5340",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1053,12 +1658,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shell-like interface to devicetrees",
+                    "homepage": null,
                     "id": 526465833,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-04T05:09:42Z",
+                    "open_issues": 3,
                     "owner": "dottspina",
                     "repo": "dtsh",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 }
@@ -1080,12 +1690,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zephyr Extension for Visual Studio Code",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=mylonics.zephyr-ide",
                     "id": 794240563,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T23:09:25Z",
+                    "open_issues": 5,
                     "owner": "mylonics",
                     "repo": "zephyr-ide",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": [
+                      "extension-vscode",
+                      "ide",
+                      "visual-studio-code",
+                      "zephyr",
+                      "zephyr-rtos"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1096,12 +1717,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VSCode Tools for Zephyr",
+                    "homepage": null,
                     "id": 434732611,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-06T17:28:40Z",
+                    "open_issues": 0,
                     "owner": "circuitdojo",
                     "repo": "zephyr-tools",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1112,12 +1738,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool to import Zephyr code into Visual Studio Code in the context of a Zephyr application",
+                    "homepage": null,
                     "id": 406308436,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-31T02:41:27Z",
+                    "open_issues": 1,
                     "owner": "smrtos",
                     "repo": "Zephyr2VSC",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1128,12 +1759,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Zephyrus VSCode Extension",
+                    "homepage": null,
                     "id": 396707838,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2021-09-02T21:57:46Z",
+                    "open_issues": 2,
                     "owner": "tuScale",
                     "repo": "vscode-zephyrus",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1144,12 +1780,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ardesco extension for VS Code",
+                    "homepage": null,
                     "id": 309981973,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2020-12-02T21:21:27Z",
+                    "open_issues": 0,
                     "owner": "Ericsson",
                     "repo": "Ardesco-VSCode-Extension",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 }
@@ -1167,12 +1808,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zephyr Eclipse Plugin",
+                    "homepage": null,
                     "id": 215090416,
                     "language": "Java",
+                    "license": "EPL-2.0",
                     "last_commit": "2022-03-29T21:24:19Z",
+                    "open_issues": 21,
                     "owner": "zephyrproject-rtos",
                     "repo": "eclipse-plugin",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "development",
+                      "ide",
+                      "tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1183,12 +1833,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This bunch of files allow building Zephyr application from the root folder",
+                    "homepage": null,
                     "id": 362273069,
                     "language": "CMake",
+                    "license": "LGPL-3.0",
                     "last_commit": "2022-05-27T16:06:54Z",
+                    "open_issues": 0,
                     "owner": "thirdpin",
                     "repo": "Zephyr-CMake-Helpers",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 }
@@ -1211,12 +1866,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenOCD with Zephyr patches for building Zephyr SDK",
+                "homepage": null,
                 "id": 99490020,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-24T04:21:37Z",
+                "open_issues": 10,
                 "owner": "zephyrproject-rtos",
                 "repo": "openocd",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "sdk-components",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1227,12 +1890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "J-Link Zephyr RTOS plugin",
+                "homepage": null,
                 "id": 746822245,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T15:26:24Z",
+                "open_issues": 6,
                 "owner": "zephyrproject-rtos",
                 "repo": "jlink-zephyr",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1248,12 +1916,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mobile management library for devices supporting SMP Service over Bluetooth LE.",
+                    "homepage": "https://www.nordicsemi.com/Software-and-tools/Software/nRF-Connect-SDK",
                     "id": 261969147,
                     "language": "Swift",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T10:29:05Z",
+                    "open_issues": 2,
                     "owner": "nordicsemi",
                     "repo": "IOS-nRF-Connect-Device-Manager",
-                    "stars": 164
+                    "stars": 164,
+                    "topics": [
+                      "ble",
+                      "bluetooth",
+                      "crash-reporting",
+                      "dfu",
+                      "fota",
+                      "ios",
+                      "mac",
+                      "memfault",
+                      "observability",
+                      "ota",
+                      "swift"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1264,12 +1949,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mobile management library for devices running Apache Mynewt and Zephyr (DFU, logs, stats, config, etc.)",
+                    "homepage": null,
                     "id": 261969351,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T15:09:40Z",
+                    "open_issues": 20,
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1280,24 +1970,43 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MCU Manager for browsers",
+                    "homepage": "https://boogie.github.io/mcumgr-web",
                     "id": 447161879,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-18T13:34:35Z",
+                    "open_issues": 3,
                     "owner": "boogie",
                     "repo": "mcumgr-web",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "bluetooth",
+                      "bluetooth-low-energy",
+                      "dfu",
+                      "mcumgr",
+                      "web-bluetooth"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Upstream repo is https://github.com/apache/mynewt-mcumgr",
+                "homepage": null,
                 "id": 188147370,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-11-16T10:41:08Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "mcumgr",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "management",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1308,12 +2017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect Zephyr and TFM applications, post mortem",
+                "homepage": "https://linaro.github.io/aerology/",
                 "id": 473235944,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-24T03:16:41Z",
+                "open_issues": 2,
                 "owner": "Linaro",
                 "repo": "aerology",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1324,12 +2038,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 188296731,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-01-27T11:44:37Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "segger",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "debug",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1340,12 +2062,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Binutils and GDB source for building Zephyr SDK",
+                "homepage": null,
                 "id": 359509926,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-02T16:57:51Z",
+                "open_issues": 5,
                 "owner": "zephyrproject-rtos",
                 "repo": "binutils-gdb",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "sdk-components"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1356,12 +2085,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of https://github.com/EDTTool/EDTT (PRs or issues should be filed there)",
+                "homepage": null,
                 "id": 228429618,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-13T07:22:00Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "edtt",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "bluetooth",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             },
@@ -1372,12 +2109,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 237639809,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2020-02-01T16:20:55Z",
+                "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "libjaylink",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -1400,12 +2144,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Network tools for testing with Qemu",
+                    "homepage": null,
                     "id": 61154550,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-07T14:20:47Z",
+                    "open_issues": 8,
                     "owner": "zephyrproject-rtos",
                     "repo": "net-tools",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "module",
+                      "networking",
+                      "tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 },
@@ -1416,24 +2169,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SeaBIOS source for Zephyr SDK x86 QEMU",
+                    "homepage": null,
                     "id": 279707856,
                     "language": "C",
+                    "license": "LGPL-3.0",
                     "last_commit": "2025-07-22T05:15:47Z",
+                    "open_issues": 0,
                     "owner": "zephyrproject-rtos",
                     "repo": "seabios",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "sdk-components"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "QEMU source for building Zephyr SDK",
+                "homepage": "http://www.qemu.org",
                 "id": 91245943,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T21:19:06Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "qemu",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "sdk-components"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -1451,12 +2218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of pre-commit hooks for use with Zephyr RTOS",
+                "homepage": null,
                 "id": 617665086,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-06T04:53:32Z",
+                "open_issues": 0,
                 "owner": "common-ground-electronics",
                 "repo": "zephyr-pre-commit-hooks",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
             }
@@ -1478,12 +2250,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMK Firmware Repository",
+            "homepage": "https://zmk.dev/",
             "id": 270692521,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:03:35Z",
+            "open_issues": 419,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4243
+            "stars": 4243,
+            "topics": [
+              "bluetooth",
+              "hacktoberfest",
+              "keyboard",
+              "keyboard-firmware",
+              "mechanical-keyboard",
+              "wireless",
+              "zephyr",
+              "zmk"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.785Z"
         },
@@ -1494,12 +2280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",
+            "homepage": "https://zswatch.dev",
             "id": 1048367968,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-22T10:19:36Z",
+            "open_issues": 0,
             "owner": "jakkra",
             "repo": "ZSWatch",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.785Z"
         }
@@ -1508,15 +2299,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:28:39.785Z",
+    "last_updated": "2026-08-29T04:50:02.302Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
+      "homepage": null,
       "id": 463883920,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-12-11T22:51:16Z",
+      "open_issues": 2,
       "owner": "golioth",
       "repo": "awesome-zephyr-rtos",
-      "stars": 228
+      "stars": 228,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "iot",
+        "lists",
+        "mcu",
+        "microcontroller",
+        "real-time",
+        "rtos",
+        "zephyr",
+        "zephyr-rtos"
+      ]
     },
     "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
     "enhanced_repository": "enhansome/enhansome-zephyr-rtos",
