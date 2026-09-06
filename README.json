@@ -108,7 +108,7 @@
                 "open_issues": 23,
                 "owner": "zephyrproject-rtos",
                 "repo": "ArduinoCore-zephyr",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "gsoc-2022",
                   "module",
@@ -408,7 +408,7 @@
                 "open_issues": 66,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "eclipseiot",
                   "internet-of-things",
@@ -667,10 +667,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T13:17:51Z",
-                "open_issues": 1525,
+                "open_issues": 1527,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22045,
+                "stars": 22046,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -728,11 +728,11 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T06:42:02Z",
+                "last_commit": "2026-09-06T11:23:37Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -778,7 +778,7 @@
                 "open_issues": 60,
                 "owner": "gioblu",
                 "repo": "PJON",
-                "stars": 2822,
+                "stars": 2823,
                 "topics": [
                   "arduino",
                   "attiny",
@@ -974,8 +974,8 @@
                     "id": 148686626,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T05:36:46Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-09-05T17:42:31Z",
+                    "open_issues": 25,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 240,
@@ -1187,7 +1187,7 @@
                 "open_issues": 422,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4247,
+                "stars": 4248,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -1327,7 +1327,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-12T00:04:00Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "intel",
                 "repo": "ecfw-zephyr",
                 "stars": 77,
@@ -1678,7 +1678,7 @@
                     "open_issues": 5,
                     "owner": "mylonics",
                     "repo": "zephyr-ide",
-                    "stars": 97,
+                    "stars": 98,
                     "topics": [
                       "extension-vscode",
                       "ide",
@@ -2238,7 +2238,7 @@
             "open_issues": 422,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4247,
+            "stars": 4248,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2278,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:57:13.147Z",
+    "last_updated": "2026-09-06T14:17:08.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
