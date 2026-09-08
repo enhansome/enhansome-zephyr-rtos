@@ -134,7 +134,7 @@
                 "open_issues": 2,
                 "owner": "lowlander",
                 "repo": "zpp",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -404,8 +404,8 @@
                 "id": 45860898,
                 "language": "Java",
                 "license": "EPL-2.0",
-                "last_commit": "2026-09-07T02:16:11Z",
-                "open_issues": 67,
+                "last_commit": "2026-09-08T06:16:04Z",
+                "open_issues": 65,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 595,
@@ -561,7 +561,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-16T06:51:42Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "ThingSet",
                 "repo": "thingset-zephyr-sdk",
                 "stars": 22,
@@ -666,11 +666,11 @@
                 "id": 15337142,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T03:11:48Z",
-                "open_issues": 1526,
+                "last_commit": "2026-09-08T06:29:21Z",
+                "open_issues": 1522,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22048,
+                "stars": 22050,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -696,7 +696,7 @@
                 "open_issues": 605,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6084,
+                "stars": 6085,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -811,8 +811,8 @@
                 "id": 213168548,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-07T15:54:09Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-07T20:19:22Z",
+                "open_issues": 91,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 593,
@@ -853,8 +853,8 @@
                 "id": 198396091,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-07-06T16:13:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-08T10:10:02Z",
+                "open_issues": 0,
                 "owner": "zephyrproject-rtos",
                 "repo": "openthread",
                 "stars": 31,
@@ -888,6 +888,36 @@
                 ]
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Xaloqi EDS",
+              "description": "ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ISO 14229 UDS diagnostics stack for Zephyr and FreeRTOS. YAML-configured. ASIL-B-oriented architecture. DoIP + CAN.",
+                "homepage": "https://xaloqi.com",
+                "id": 1223259002,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2026-09-07T20:08:50Z",
+                "open_issues": 9,
+                "owner": "Xaloqi",
+                "repo": "EDS",
+                "stars": 11,
+                "topics": [
+                  "automotive",
+                  "diagnostics",
+                  "doip",
+                  "embedded",
+                  "freertos",
+                  "iso14229",
+                  "uds",
+                  "zephyr"
+                ]
+              },
+              "first_seen": "2026-09-08T15:12:46.548Z"
             },
             {
               "node_type": "item",
@@ -974,8 +1004,8 @@
                     "id": 148686626,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T17:42:31Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-09-07T20:31:35Z",
+                    "open_issues": 26,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 240,
@@ -1061,7 +1091,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T08:28:07Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "zephyrproject-rtos",
                 "repo": "trusted-firmware-m",
                 "stars": 50,
@@ -1187,7 +1217,7 @@
                 "open_issues": 422,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4251,
+                "stars": 4250,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -1306,7 +1336,7 @@
                 "open_issues": 7,
                 "owner": "zephyrproject-rtos",
                 "repo": "lvgl",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "display",
                   "module"
@@ -1675,7 +1705,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-26T23:09:25Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "mylonics",
                     "repo": "zephyr-ide",
                     "stars": 98,
@@ -2238,7 +2268,7 @@
             "open_issues": 422,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4251,
+            "stars": 4250,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2278,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:35:17.680Z",
+    "last_updated": "2026-09-08T15:12:46.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
@@ -2286,8 +2316,8 @@
       "id": 463883920,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2024-12-11T22:51:16Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-08T12:44:19Z",
+      "open_issues": 1,
       "owner": "golioth",
       "repo": "awesome-zephyr-rtos",
       "stars": 228,
@@ -2305,7 +2335,7 @@
         "zephyr-rtos"
       ]
     },
-    "original_repository_sha": "fab9498e9890bbc9fe0649adec5c52de9e3972f5",
+    "original_repository_sha": "dd0d57dc44f1b38b961ff38b8fad4d3411dd18e7",
     "enhanced_repository": "enhansome/enhansome-zephyr-rtos",
     "enhanced_repository_description": null,
     "title": "🪁 Awesome Zephyr RTOS with stars"
