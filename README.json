@@ -431,7 +431,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T18:15:21Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "memfault",
                 "repo": "memfault-firmware-sdk",
                 "stars": 236,
@@ -667,10 +667,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T14:21:56Z",
-                "open_issues": 1524,
+                "open_issues": 1525,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22057,
+                "stars": 22061,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -696,7 +696,7 @@
                 "open_issues": 601,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6088,
+                "stars": 6090,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -811,7 +811,7 @@
                 "id": 213168548,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-11T22:22:36Z",
+                "last_commit": "2026-09-12T16:31:46Z",
                 "open_issues": 92,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
@@ -1217,7 +1217,7 @@
                 "open_issues": 429,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4256,
+                "stars": 4261,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -1884,7 +1884,7 @@
                 "open_issues": 8,
                 "owner": "zephyrproject-rtos",
                 "repo": "openocd",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "sdk-components",
                   "tools"
@@ -2268,7 +2268,7 @@
             "open_issues": 429,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4256,
+            "stars": 4261,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:16:16.228Z",
+    "last_updated": "2026-09-13T14:57:23.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
