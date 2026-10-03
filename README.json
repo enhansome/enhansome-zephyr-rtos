@@ -667,10 +667,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T07:05:46Z",
-                "open_issues": 1530,
+                "open_issues": 1532,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22105,
+                "stars": 22104,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -696,7 +696,7 @@
                 "open_issues": 623,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6128,
+                "stars": 6127,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -811,7 +811,7 @@
                 "id": 213168548,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-02T15:42:02Z",
+                "last_commit": "2026-10-02T21:58:49Z",
                 "open_issues": 94,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
@@ -1004,8 +1004,8 @@
                     "id": 148686626,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T00:42:01Z",
-                    "open_issues": 32,
+                    "last_commit": "2026-10-02T19:41:08Z",
+                    "open_issues": 34,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 240,
@@ -1214,7 +1214,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-30T00:38:23Z",
-                "open_issues": 435,
+                "open_issues": 434,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
                 "stars": 4282,
@@ -1676,7 +1676,7 @@
                     "open_issues": 3,
                     "owner": "dottspina",
                     "repo": "dtsh",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
@@ -1743,7 +1743,7 @@
                 {
                   "node_type": "item",
                   "title": "VS Code importer",
-                  "description": null,
+                  "description": "smrtos/Zephyr2VSC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1764,7 +1764,7 @@
                 {
                   "node_type": "item",
                   "title": "Zephyrus",
-                  "description": null,
+                  "description": "tuScale/vscode-zephyrus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1813,7 +1813,7 @@
                 {
                   "node_type": "item",
                   "title": "Eclipse",
-                  "description": null,
+                  "description": "zephyrproject-rtos/eclipse-plugin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1871,7 +1871,7 @@
             {
               "node_type": "item",
               "title": "OpenOCD",
-              "description": null,
+              "description": "zephyrproject-rtos/openocd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1916,12 +1916,12 @@
             {
               "node_type": "item",
               "title": "mcumgr",
-              "description": null,
+              "description": "zephyrproject-rtos/mcumgr",
               "children": [
                 {
                   "node_type": "item",
                   "title": "iOS",
-                  "description": null,
+                  "description": "nordicsemi/IOS-nRF-Connect-Device-Manager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1954,7 +1954,7 @@
                 {
                   "node_type": "item",
                   "title": "Android",
-                  "description": null,
+                  "description": "nordicsemi/Android-nRF-Connect-Device-Manager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1963,8 +1963,8 @@
                     "id": 261969351,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T19:00:52Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-02T22:39:33Z",
+                    "open_issues": 21,
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
                     "stars": 146,
@@ -1975,7 +1975,7 @@
                 {
                   "node_type": "item",
                   "title": "boogie/mcumgr-web",
-                  "description": null,
+                  "description": "boogie/mcumgr-web",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2043,7 +2043,7 @@
             {
               "node_type": "item",
               "title": "SEGGER",
-              "description": null,
+              "description": "zephyrproject-rtos/segger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2067,7 +2067,7 @@
             {
               "node_type": "item",
               "title": "GNU Tools (GDB, Binutils)",
-              "description": null,
+              "description": "zephyrproject-rtos/binutils-gdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2090,7 +2090,7 @@
             {
               "node_type": "item",
               "title": "EDTT (Embedded Device Test Tool)",
-              "description": null,
+              "description": "zephyrproject-rtos/edtt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2144,12 +2144,12 @@
             {
               "node_type": "item",
               "title": "QEMU",
-              "description": null,
+              "description": "zephyrproject-rtos/qemu",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Network Tools",
-                  "description": null,
+                  "description": "zephyrproject-rtos/net-tools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2174,7 +2174,7 @@
                 {
                   "node_type": "item",
                   "title": "SeaBIOS",
-                  "description": null,
+                  "description": "zephyrproject-rtos/seabios",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2265,7 +2265,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-30T00:38:23Z",
-            "open_issues": 435,
+            "open_issues": 434,
             "owner": "zmkfirmware",
             "repo": "zmk",
             "stars": 4282,
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:44:41.918Z",
+    "last_updated": "2026-10-03T05:15:14.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
