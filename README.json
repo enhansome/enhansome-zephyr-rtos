@@ -404,11 +404,11 @@
                 "id": 45860898,
                 "language": "Java",
                 "license": "EPL-2.0",
-                "last_commit": "2026-10-01T06:41:48Z",
+                "last_commit": "2026-10-05T12:48:46Z",
                 "open_issues": 63,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "eclipseiot",
                   "internet-of-things",
@@ -465,7 +465,7 @@
                 "open_issues": 1,
                 "owner": "koenvervloesem",
                 "repo": "openhaystack-zephyr",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "bbc-microbit",
                   "ble",
@@ -531,7 +531,7 @@
                 "open_issues": 1,
                 "owner": "koenvervloesem",
                 "repo": "send-my-sensor",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "ble",
                   "bluetooth-low-energy",
@@ -667,10 +667,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T07:13:43Z",
-                "open_issues": 1532,
+                "open_issues": 1534,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22107,
+                "stars": 22108,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -696,7 +696,7 @@
                 "open_issues": 623,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6127,
+                "stars": 6130,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -728,7 +728,7 @@
                 "id": 152950119,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T11:37:08Z",
+                "last_commit": "2026-10-05T17:58:03Z",
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
@@ -812,10 +812,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-02T21:58:49Z",
-                "open_issues": 94,
+                "open_issues": 96,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "avr",
                   "bacnet",
@@ -867,6 +867,30 @@
             },
             {
               "node_type": "item",
+              "title": "canopennode",
+              "description": "CANopen Stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zephyr repository tracking https://github.com/CANopenNode/CANopenNode",
+                "homepage": null,
+                "id": 234373971,
+                "language": "C",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-07T06:34:26Z",
+                "open_issues": 1,
+                "owner": "zephyrproject-rtos",
+                "repo": "canopennode",
+                "stars": 14,
+                "topics": [
+                  "can",
+                  "module"
+                ]
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
+            },
+            {
+              "node_type": "item",
               "title": "Xaloqi EDS",
               "description": "ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.",
               "children": [],
@@ -877,8 +901,8 @@
                 "id": 1223259002,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-04T15:32:39Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-05T05:03:46Z",
+                "open_issues": 9,
                 "owner": "Xaloqi",
                 "repo": "EDS",
                 "stars": 14,
@@ -894,30 +918,6 @@
                 ]
               },
               "first_seen": "2026-09-08T15:12:46.548Z"
-            },
-            {
-              "node_type": "item",
-              "title": "canopennode",
-              "description": "CANopen Stack.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zephyr repository tracking https://github.com/CANopenNode/CANopenNode",
-                "homepage": null,
-                "id": 234373971,
-                "language": "C",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-07T06:34:26Z",
-                "open_issues": 1,
-                "owner": "zephyrproject-rtos",
-                "repo": "canopennode",
-                "stars": 13,
-                "topics": [
-                  "can",
-                  "module"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:39.785Z"
             },
             {
               "node_type": "item",
@@ -1004,8 +1004,8 @@
                     "id": 148686626,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-04T06:03:52Z",
-                    "open_issues": 32,
+                    "last_commit": "2026-10-05T19:03:28Z",
+                    "open_issues": 29,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 240,
@@ -1037,7 +1037,7 @@
                     "language": "C",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-29T13:58:49Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "nordicsemi",
                     "repo": "zcbor",
                     "stars": 169,
@@ -1217,7 +1217,7 @@
                 "open_issues": 436,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4285,
+                "stars": 4286,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -1930,8 +1930,8 @@
                     "id": 261969147,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T13:08:04Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-05T14:04:22Z",
+                    "open_issues": 3,
                     "owner": "nordicsemi",
                     "repo": "IOS-nRF-Connect-Device-Manager",
                     "stars": 165,
@@ -1963,8 +1963,8 @@
                     "id": 261969351,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-04T01:07:34Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-05T14:14:59Z",
+                    "open_issues": 18,
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
                     "stars": 146,
@@ -2268,7 +2268,7 @@
             "open_issues": 436,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4285,
+            "stars": 4286,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:53:52.675Z",
+    "last_updated": "2026-10-05T19:46:26.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
