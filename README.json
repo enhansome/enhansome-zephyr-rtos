@@ -340,6 +340,30 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cmsis",
+              "description": "Standardized API for the Cortex-M processor core and peripherals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zephyr repository tracking https://github.com/ARM-software/CMSIS_5",
+                "homepage": null,
+                "id": 248545339,
+                "language": "C",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-03T10:41:15Z",
+                "open_issues": 2,
+                "owner": "zephyrproject-rtos",
+                "repo": "cmsis",
+                "stars": 17,
+                "topics": [
+                  "hal",
+                  "module"
+                ]
+              },
+              "first_seen": "2026-08-28T21:28:39.785Z"
+            },
+            {
+              "node_type": "item",
               "title": "libmetal",
               "description": "Abstraction layer across user-space Linux, baremetal, and RTOS environments.",
               "children": [],
@@ -356,30 +380,6 @@
                 "repo": "libmetal",
                 "stars": 17,
                 "topics": [
-                  "module"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:39.785Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cmsis",
-              "description": "Standardized API for the Cortex-M processor core and peripherals.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zephyr repository tracking https://github.com/ARM-software/CMSIS_5",
-                "homepage": null,
-                "id": 248545339,
-                "language": "C",
-                "license": "Apache-2.0",
-                "last_commit": "2025-06-03T10:41:15Z",
-                "open_issues": 2,
-                "owner": "zephyrproject-rtos",
-                "repo": "cmsis",
-                "stars": 16,
-                "topics": [
-                  "hal",
                   "module"
                 ]
               },
@@ -404,7 +404,7 @@
                 "id": 45860898,
                 "language": "Java",
                 "license": "EPL-2.0",
-                "last_commit": "2026-10-05T12:48:46Z",
+                "last_commit": "2026-10-06T10:01:20Z",
                 "open_issues": 63,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
@@ -696,7 +696,7 @@
                 "open_issues": 623,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6130,
+                "stars": 6131,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -732,7 +732,7 @@
                 "open_issues": 3,
                 "owner": "svenssonjoel",
                 "repo": "lispBM",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "chibios",
                   "concurrency",
@@ -815,7 +815,7 @@
                 "open_issues": 96,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
-                "stars": 599,
+                "stars": 600,
                 "topics": [
                   "avr",
                   "bacnet",
@@ -1004,8 +1004,8 @@
                     "id": 148686626,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T19:03:28Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-06T02:54:23Z",
+                    "open_issues": 31,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 240,
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T19:46:26.538Z",
+    "last_updated": "2026-10-06T11:06:16.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
