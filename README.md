@@ -5,7 +5,7 @@
 
 > The Zephyr RTOS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 517,118 | 🐛 106 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 517,564 | 🐛 105 | 📅 2026-09-02
 
 > \[!NOTE]\
 > The Zephyr Project has started to maintain an [awesome list](https://github.com/zephyrproject-rtos/awesome-zephyr-rtos) ⭐ 72 | 🐛 4 | 📅 2026-02-24. We encourage you to check it out and contribute.
@@ -24,8 +24,8 @@
 * [zephyrproject.org](https://www.zephyrproject.org/) - Official website.
 * [docs.zephyrproject.org](https://docs.zephyrproject.org/) - Project documentation.
 * [github](https://github.com/zephyrproject-rtos) - Project GitHub organization.
-  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,744 | 🐛 4,231 | 🌐 C | 📅 2026-10-10 - Main repo.
-  * [west](https://github.com/zephyrproject-rtos/west) ⭐ 370 | 🐛 73 | 🌐 Python | 📅 2026-10-01 - Swiss-army knife command line tool.
+  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,753 | 🐛 4,237 | 🌐 C | 📅 2026-10-11 - Main repo.
+  * [west](https://github.com/zephyrproject-rtos/west) ⭐ 371 | 🐛 73 | 🌐 Python | 📅 2026-10-01 - Swiss-army knife command line tool.
   * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 293 | 🐛 83 | 🌐 C | 📅 2026-09-25 - Next generation toolchains & host tools.
   * [example-application](https://github.com/zephyrproject-rtos/example-application) ⭐ 364 | 🐛 4 | 🌐 C | 📅 2026-09-14 - Example out-of-tree application that is also a module.
   * [docker-image](https://github.com/zephyrproject-rtos/docker-image) ⭐ 247 | 🐛 13 | 🌐 Shell | 📅 2026-09-12 - Docker image suitable for development and CI.
@@ -82,8 +82,8 @@
 
 ### Languages & Runtimes
 
-* [micropython](https://github.com/micropython/micropython) ⭐ 22,108 | 🐛 1,532 | 🌐 C | 📅 2026-10-10 - a lean and efficient Python implementation for microcontrollers and constrained systems.
-* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,134 | 🐛 626 | 🌐 C | 📅 2026-10-09 - Lightweight standalone WebAssembly (WASM) runtime.
+* [micropython](https://github.com/micropython/micropython) ⭐ 22,112 | 🐛 1,534 | 🌐 C | 📅 2026-10-10 - a lean and efficient Python implementation for microcontrollers and constrained systems.
+* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,137 | 🐛 628 | 🌐 C | 📅 2026-10-09 - Lightweight standalone WebAssembly (WASM) runtime.
 * [lispBM](https://github.com/svenssonjoel/lispBM) ⭐ 160 | 🐛 3 | 🌐 C | 📅 2026-10-05 - LispBM is a lisp or scheme like programming language for microcontrollers.
 
 ### Networking & Protocols
@@ -92,12 +92,12 @@
 * [BACnet Stack](https://github.com/bacnet-stack/bacnet-stack) ⭐ 600 | 🐛 93 | 🌐 C | 📅 2026-10-10 - BACnet open source protocol stack for embedded systems, Linux, and Windows.
 * [openthread](https://github.com/zephyrproject-rtos/openthread) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2026-09-24 - Thread mesh networking protocol.
 * [canopennode](https://github.com/zephyrproject-rtos/canopennode) ⭐ 14 | 🐛 1 | 🌐 C | 📅 2026-04-07 - CANopen Stack.
-* [Xaloqi EDS](https://github.com/Xaloqi/EDS) ⭐ 14 | 🐛 10 | 🌐 C | 📅 2026-10-09 - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
+* [Xaloqi EDS](https://github.com/Xaloqi/EDS) ⭐ 14 | 🐛 9 | 🌐 C | 📅 2026-10-11 - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
 * [greybus-for-zephyr](https://github.com/cfriedt/greybus-for-zephyr) ⭐ 7 | 🐛 30 | 🌐 C | 📅 2022-07-01 - Protocol for hotpluggable devices.
 * [nanopb](https://github.com/zephyrproject-rtos/nanopb) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-09-23 - Protocol Buffers for Embedded Systems.
 * [civetweb](https://github.com/zephyrproject-rtos/civetweb) ⚠️ Archived - Embeddable web server.
 * [CBOR](https://cbor.io/) - Concise Binary Object Representation.
-  * [QCBOR](https://github.com/laurencelundblade/QCBOR) ⭐ 240 | 🐛 27 | 🌐 C | 📅 2026-10-06 - Comprehensive CBOR library.
+  * [QCBOR](https://github.com/laurencelundblade/QCBOR) ⭐ 240 | 🐛 28 | 🌐 C | 📅 2026-10-10 - Comprehensive CBOR library.
   * [zcbor](https://github.com/NordicSemiconductor/zcbor/) ⭐ 169 | 🐛 24 | 🌐 C | 📅 2026-09-29 - CBOR library that includes support for CDDL.
   * [tinycbor](https://github.com/zephyrproject-rtos/tinycbor) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2022-04-07 - Small CBOR library.
 * [cosy](https://github.com/lindemer/cozy) - CBOR Object Signing and Encryption (COSE).
@@ -231,4 +231,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
