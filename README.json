@@ -52,7 +52,7 @@
                 "open_issues": 19,
                 "owner": "micro-ROS",
                 "repo": "micro_ros_zephyr_module",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "micro-ros",
                   "zephyr"
@@ -408,7 +408,7 @@
                 "open_issues": 66,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
-                "stars": 606,
+                "stars": 607,
                 "topics": [
                   "eclipseiot",
                   "internet-of-things",
@@ -667,10 +667,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T06:06:21Z",
-                "open_issues": 1549,
+                "open_issues": 1550,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22148,
+                "stars": 22151,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -693,10 +693,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T09:01:32Z",
-                "open_issues": 645,
+                "open_issues": 649,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6167,
+                "stars": 6165,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -811,8 +811,8 @@
                 "id": 213168548,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-23T15:18:50Z",
-                "open_issues": 96,
+                "last_commit": "2026-10-23T18:30:19Z",
+                "open_issues": 95,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 602,
@@ -1004,8 +1004,8 @@
                     "id": 148686626,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T11:34:40Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-23T18:37:18Z",
+                    "open_issues": 25,
                     "owner": "laurencelundblade",
                     "repo": "QCBOR",
                     "stars": 242,
@@ -1217,7 +1217,7 @@
                 "open_issues": 449,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4306,
+                "stars": 4307,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -2268,7 +2268,7 @@
             "open_issues": 449,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4306,
+            "stars": 4307,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:48:14.033Z",
+    "last_updated": "2026-10-24T14:42:32.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
