@@ -5,7 +5,7 @@
 
 > The Zephyr RTOS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 523,948 | 🐛 105 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 524,545 | 🐛 105 | 📅 2026-09-02
 
 > \[!NOTE]\
 > The Zephyr Project has started to maintain an [awesome list](https://github.com/zephyrproject-rtos/awesome-zephyr-rtos) ⭐ 73 | 🐛 4 | 📅 2026-02-24. We encourage you to check it out and contribute.
@@ -24,9 +24,9 @@
 * [zephyrproject.org](https://www.zephyrproject.org/) - Official website.
 * [docs.zephyrproject.org](https://docs.zephyrproject.org/) - Project documentation.
 * [github](https://github.com/zephyrproject-rtos) - Project GitHub organization.
-  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,887 | 🐛 4,794 | 🌐 C | 📅 2026-10-24 - Main repo.
-  * [west](https://github.com/zephyrproject-rtos/west) ⭐ 376 | 🐛 73 | 🌐 Python | 📅 2026-10-20 - Swiss-army knife command line tool.
-  * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 297 | 🐛 84 | 🌐 C | 📅 2026-09-25 - Next generation toolchains & host tools.
+  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,900 | 🐛 4,811 | 🌐 C | 📅 2026-10-25 - Main repo.
+  * [west](https://github.com/zephyrproject-rtos/west) ⭐ 375 | 🐛 73 | 🌐 Python | 📅 2026-10-20 - Swiss-army knife command line tool.
+  * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 296 | 🐛 84 | 🌐 C | 📅 2026-09-25 - Next generation toolchains & host tools.
   * [example-application](https://github.com/zephyrproject-rtos/example-application) ⭐ 365 | 🐛 3 | 🌐 C | 📅 2026-10-21 - Example out-of-tree application that is also a module.
   * [docker-image](https://github.com/zephyrproject-rtos/docker-image) ⭐ 248 | 🐛 14 | 🌐 Shell | 📅 2026-09-12 - Docker image suitable for development and CI.
 * [discord](https://discord.com/invite/Ck7jw53nU2) - Community chat hosted on Discord.
@@ -70,7 +70,7 @@
 
 ### IoT & Cloud
 
-* [Eclipse hawkbit](https://github.com/eclipse/hawkbit) ⭐ 607 | 🐛 66 | 🌐 Java | 📅 2026-10-23 - Firmware Update Server.
+* [Eclipse hawkbit](https://github.com/eclipse/hawkbit) ⭐ 608 | 🐛 66 | 🌐 Java | 📅 2026-10-23 - Firmware Update Server.
 * [Memfault](https://github.com/memfault/memfault-firmware-sdk/tree/master/ports/zephyr) ⭐ 240 | 🐛 6 | 🌐 C | 📅 2026-10-06 - Cloud-based debugging & observability.
 * [openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) ⭐ 90 | 🐛 1 | 🌐 C | 📅 2022-06-10 - Track personal Bluetooth devices via Apple's massive Find My network.
 * [Golioth](https://github.com/golioth/golioth-zephyr-sdk) ⚠️ Archived - Device Management & cloud enablement platform.
@@ -82,8 +82,8 @@
 
 ### Languages & Runtimes
 
-* [micropython](https://github.com/micropython/micropython) ⭐ 22,151 | 🐛 1,550 | 🌐 C | 📅 2026-10-23 - a lean and efficient Python implementation for microcontrollers and constrained systems.
-* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,165 | 🐛 649 | 🌐 C | 📅 2026-10-23 - Lightweight standalone WebAssembly (WASM) runtime.
+* [micropython](https://github.com/micropython/micropython) ⭐ 22,150 | 🐛 1,552 | 🌐 C | 📅 2026-10-23 - a lean and efficient Python implementation for microcontrollers and constrained systems.
+* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,168 | 🐛 650 | 🌐 C | 📅 2026-10-23 - Lightweight standalone WebAssembly (WASM) runtime.
 * [lispBM](https://github.com/svenssonjoel/lispBM) ⭐ 160 | 🐛 3 | 🌐 C | 📅 2026-10-16 - LispBM is a lisp or scheme like programming language for microcontrollers.
 
 ### Networking & Protocols
@@ -92,7 +92,7 @@
 * [BACnet Stack](https://github.com/bacnet-stack/bacnet-stack) ⭐ 602 | 🐛 95 | 🌐 C | 📅 2026-10-23 - BACnet open source protocol stack for embedded systems, Linux, and Windows.
 * [openthread](https://github.com/zephyrproject-rtos/openthread) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2026-09-24 - Thread mesh networking protocol.
 * [canopennode](https://github.com/zephyrproject-rtos/canopennode) ⭐ 14 | 🐛 1 | 🌐 C | 📅 2026-04-07 - CANopen Stack.
-* [Xaloqi EDS](https://github.com/Xaloqi/EDS) ⭐ 14 | 🐛 14 | 🌐 C | 📅 2026-10-22 - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
+* [Xaloqi EDS](https://github.com/Xaloqi/EDS) ⭐ 14 | 🐛 21 | 🌐 C | 📅 2026-10-25 - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
 * [greybus-for-zephyr](https://github.com/cfriedt/greybus-for-zephyr) ⭐ 7 | 🐛 30 | 🌐 C | 📅 2022-07-01 - Protocol for hotpluggable devices.
 * [nanopb](https://github.com/zephyrproject-rtos/nanopb) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-09-23 - Protocol Buffers for Embedded Systems.
 * [civetweb](https://github.com/zephyrproject-rtos/civetweb) ⚠️ Archived - Embeddable web server.
@@ -231,4 +231,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
