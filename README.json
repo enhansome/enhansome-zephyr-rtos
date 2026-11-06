@@ -247,7 +247,7 @@
                 "open_issues": 17,
                 "owner": "project-ocre",
                 "repo": "ocre-runtime",
-                "stars": 144,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.785Z"
@@ -404,8 +404,8 @@
                 "id": 45860898,
                 "language": "Java",
                 "license": "EPL-2.0",
-                "last_commit": "2026-11-05T14:20:42Z",
-                "open_issues": 59,
+                "last_commit": "2026-11-06T15:26:03Z",
+                "open_issues": 66,
                 "owner": "eclipse-hawkbit",
                 "repo": "hawkbit",
                 "stars": 611,
@@ -666,8 +666,8 @@
                 "id": 15337142,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T03:35:46Z",
-                "open_issues": 1583,
+                "last_commit": "2026-11-06T12:22:36Z",
+                "open_issues": 1575,
                 "owner": "micropython",
                 "repo": "micropython",
                 "stars": 22180,
@@ -692,11 +692,11 @@
                 "id": 184654298,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T04:40:56Z",
+                "last_commit": "2026-11-06T10:24:00Z",
                 "open_issues": 656,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6191,
+                "stars": 6192,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -811,8 +811,8 @@
                 "id": 213168548,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-05T17:42:05Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-06T13:28:58Z",
+                "open_issues": 92,
                 "owner": "bacnet-stack",
                 "repo": "bacnet-stack",
                 "stars": 606,
@@ -857,7 +857,7 @@
                 "open_issues": 1,
                 "owner": "zephyrproject-rtos",
                 "repo": "openthread",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "module",
                   "networking"
@@ -1036,7 +1036,7 @@
                     "id": 235833583,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T13:24:00Z",
+                    "last_commit": "2026-11-06T11:05:56Z",
                     "open_issues": 23,
                     "owner": "nordicsemi",
                     "repo": "zcbor",
@@ -1217,7 +1217,7 @@
                 "open_issues": 453,
                 "owner": "zmkfirmware",
                 "repo": "zmk",
-                "stars": 4320,
+                "stars": 4321,
                 "topics": [
                   "bluetooth",
                   "hacktoberfest",
@@ -1268,7 +1268,7 @@
                 "open_issues": 22,
                 "owner": "zephyrproject-rtos",
                 "repo": "zscilib",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "arm",
                   "embedded",
@@ -1614,8 +1614,8 @@
                 "id": 742012509,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T11:58:39Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-06T10:23:40Z",
+                "open_issues": 8,
                 "owner": "zephyrproject-rtos",
                 "repo": "action-zephyr-setup",
                 "stars": 31,
@@ -1930,7 +1930,7 @@
                     "id": 261969147,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T13:51:52Z",
+                    "last_commit": "2026-11-06T11:40:45Z",
                     "open_issues": 5,
                     "owner": "nordicsemi",
                     "repo": "IOS-nRF-Connect-Device-Manager",
@@ -1963,11 +1963,11 @@
                     "id": 261969351,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T15:28:39Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-06T15:12:05Z",
+                    "open_issues": 18,
                     "owner": "nordicsemi",
                     "repo": "Android-nRF-Connect-Device-Manager",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:39.785Z"
@@ -2268,7 +2268,7 @@
             "open_issues": 453,
             "owner": "zmkfirmware",
             "repo": "zmk",
-            "stars": 4320,
+            "stars": 4321,
             "topics": [
               "bluetooth",
               "hacktoberfest",
@@ -2298,7 +2298,7 @@
             "open_issues": 0,
             "owner": "jakkra",
             "repo": "ZSWatch",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.785Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:52:45.998Z",
+    "last_updated": "2026-11-06T18:10:54.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
