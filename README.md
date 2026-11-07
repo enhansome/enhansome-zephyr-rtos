@@ -5,7 +5,7 @@
 
 > The Zephyr RTOS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 532,297 | 🐛 103 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 533,013 | 🐛 103 | 📅 2026-09-02
 
 > \[!NOTE]\
 > The Zephyr Project has started to maintain an [awesome list](https://github.com/zephyrproject-rtos/awesome-zephyr-rtos) ⭐ 75 | 🐛 4 | 📅 2026-02-24. We encourage you to check it out and contribute.
@@ -24,11 +24,11 @@
 * [zephyrproject.org](https://www.zephyrproject.org/) - Official website.
 * [docs.zephyrproject.org](https://docs.zephyrproject.org/) - Project documentation.
 * [github](https://github.com/zephyrproject-rtos) - Project GitHub organization.
-  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 17,023 | 🐛 4,854 | 🌐 C | 📅 2026-11-06 - Main repo.
+  * [zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 17,028 | 🐛 4,827 | 🌐 C | 📅 2026-11-07 - Main repo.
   * [west](https://github.com/zephyrproject-rtos/west) ⭐ 379 | 🐛 75 | 🌐 Python | 📅 2026-11-01 - Swiss-army knife command line tool.
   * [sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) ⭐ 299 | 🐛 85 | 🌐 C | 📅 2026-09-25 - Next generation toolchains & host tools.
   * [example-application](https://github.com/zephyrproject-rtos/example-application) ⭐ 367 | 🐛 4 | 🌐 C | 📅 2026-11-02 - Example out-of-tree application that is also a module.
-  * [docker-image](https://github.com/zephyrproject-rtos/docker-image) ⭐ 249 | 🐛 15 | 🌐 Shell | 📅 2026-11-05 - Docker image suitable for development and CI.
+  * [docker-image](https://github.com/zephyrproject-rtos/docker-image) ⭐ 249 | 🐛 14 | 🌐 Shell | 📅 2026-11-07 - Docker image suitable for development and CI.
 * [discord](https://discord.com/invite/Ck7jw53nU2) - Community chat hosted on Discord.
 * [mailing list](https://lists.zephyrproject.org/g/main/subgroups) - Mail & web based mailing list powere by Groups.io.
 * [youtube](https://www.youtube.com/c/ZephyrProject) - Conferences videos and event highlights.
@@ -82,14 +82,14 @@
 
 ### Languages & Runtimes
 
-* [micropython](https://github.com/micropython/micropython) ⭐ 22,180 | 🐛 1,575 | 🌐 C | 📅 2026-11-06 - a lean and efficient Python implementation for microcontrollers and constrained systems.
-* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,192 | 🐛 656 | 🌐 C | 📅 2026-11-06 - Lightweight standalone WebAssembly (WASM) runtime.
+* [micropython](https://github.com/micropython/micropython) ⭐ 22,180 | 🐛 1,584 | 🌐 C | 📅 2026-11-06 - a lean and efficient Python implementation for microcontrollers and constrained systems.
+* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,195 | 🐛 656 | 🌐 C | 📅 2026-11-06 - Lightweight standalone WebAssembly (WASM) runtime.
 * [lispBM](https://github.com/svenssonjoel/lispBM) ⭐ 162 | 🐛 3 | 🌐 C | 📅 2026-10-16 - LispBM is a lisp or scheme like programming language for microcontrollers.
 
 ### Networking & Protocols
 
 * [pjon](https://github.com/gioblu/PJON) ⭐ 2,836 | 🐛 60 | 🌐 C++ | 📅 2025-11-21 - Multi-master, multi-media network protocol.
-* [BACnet Stack](https://github.com/bacnet-stack/bacnet-stack) ⭐ 606 | 🐛 92 | 🌐 C | 📅 2026-11-06 - BACnet open source protocol stack for embedded systems, Linux, and Windows.
+* [BACnet Stack](https://github.com/bacnet-stack/bacnet-stack) ⭐ 606 | 🐛 92 | 🌐 C | 📅 2026-11-07 - BACnet open source protocol stack for embedded systems, Linux, and Windows.
 * [openthread](https://github.com/zephyrproject-rtos/openthread) ⭐ 33 | 🐛 1 | 🌐 C++ | 📅 2026-11-05 - Thread mesh networking protocol.
 * [Xaloqi EDS](https://github.com/Xaloqi/EDS) ⭐ 17 | 🐛 17 | 🌐 C | 📅 2026-11-04 - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
 * [canopennode](https://github.com/zephyrproject-rtos/canopennode) ⭐ 14 | 🐛 1 | 🌐 C | 📅 2026-04-07 - CANopen Stack.
@@ -113,7 +113,7 @@
 
 ### Misc
 
-* [zmk](https://github.com/zmkfirmware/zmk) ⭐ 4,321 | 🐛 453 | 🌐 C | 📅 2026-11-05 - Keyboard firmware with a rich featureset and broad hardware support.
+* [zmk](https://github.com/zmkfirmware/zmk) ⭐ 4,324 | 🐛 453 | 🌐 C | 📅 2026-11-05 - Keyboard firmware with a rich featureset and broad hardware support.
 * [zephyr-rust](https://github.com/tylerwhall/zephyr-rust) ⭐ 279 | 🐛 9 | 🌐 Rust | 📅 2026-10-13 - API bindings, libstd, and Cargo integration for Rust.
 * [zscilib](https://github.com/zephyrproject-rtos/zscilib) ⭐ 168 | 🐛 22 | 🌐 C | 📅 2026-10-21 - Scientific computing library.
 * [pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr) ⭐ 122 | 🐛 1 | 🌐 C | 📅 2023-07-22 - Smartwatch operating system.
@@ -171,7 +171,7 @@ Note: the official SDK includes several compilers.
 
 #### Other Editors & IDEs
 
-* [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin) ⭐ 18 | 🐛 21 | 🌐 Java | 📅 2022-03-29
+* [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin) ⭐ 19 | 🐛 21 | 🌐 Java | 📅 2022-03-29
 * [CMake Zephyr helpers](https://github.com/thirdpin/Zephyr-CMake-Helpers) ⭐ 4 | 🐛 0 | 🌐 CMake | 📅 2022-05-27 - Enhance CMake automation for use with VS Code.
 
 ### Flash, Debug & Test
@@ -180,7 +180,7 @@ Note: the official SDK includes several compilers.
 * [jlink-zephyr](https://github.com/zephyrproject-rtos/jlink-zephyr) ⭐ 40 | 🐛 3 | 🌐 C | 📅 2026-10-29 - Zephyr RTOS plugin for JlinkGDBserver.
 * [mcumgr](https://github.com/zephyrproject-rtos/mcumgr) ⭐ 35 | 🐛 0 | 🌐 C | 📅 2022-11-16
   * [iOS](https://github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager) ⭐ 168 | 🐛 5 | 🌐 Swift | 📅 2026-11-06
-  * [Android](https://github.com/NordicSemiconductor/Android-nRF-Connect-Device-Manager) ⭐ 147 | 🐛 18 | 🌐 Java | 📅 2026-11-06
+  * [Android](https://github.com/NordicSemiconductor/Android-nRF-Connect-Device-Manager) ⭐ 147 | 🐛 19 | 🌐 Java | 📅 2026-11-06
   * [Web](https://github.com/boogie/mcumgr-web) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-18
 * [Aerology](https://github.com/Linaro/aerology) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2025-01-24 - Inspect Zephyr and TF-M applications, post mortem.
 * [SEGGER](https://github.com/zephyrproject-rtos/segger) ⭐ 10 | 🐛 2 | 🌐 C | 📅 2026-01-27
@@ -207,8 +207,8 @@ Note: the official SDK includes several compilers.
 
 ## Open Source Hardware
 
-* [ZMK](https://github.com/zmkfirmware/zmk) ⭐ 4,321 | 🐛 453 | 🌐 C | 📅 2026-11-05 - ZMK Firmware is an open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS).
-* [ZSWatch](https://github.com/jakkra/ZSWatch) ⭐ 91 | 🐛 0 | 🌐 C | 📅 2026-10-29 - The Open Source Zephyr™ based Smartwatch, including both HW and FW.
+* [ZMK](https://github.com/zmkfirmware/zmk) ⭐ 4,324 | 🐛 453 | 🌐 C | 📅 2026-11-05 - ZMK Firmware is an open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS).
+* [ZSWatch](https://github.com/jakkra/ZSWatch) ⭐ 92 | 🐛 0 | 🌐 C | 📅 2026-10-29 - The Open Source Zephyr™ based Smartwatch, including both HW and FW.
 
 ## Videos
 
@@ -231,4 +231,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
